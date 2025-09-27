@@ -5,15 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Levels/MainMenu.umap",
 				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Levels/MainMenu.umap",
-				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Sound/OST/MainMenuTheme/MS_MainMenuTheme.uasset",
 				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Sound/OST/MainMenuTheme/SC_MainMenuThemeIdle.uasset",
 				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Sound/OST/MainMenuTheme/SC_MainMenuTheme.uasset",
-				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/W_MainMenu.uasset",
 				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Sound/OST/MainMenuTheme/mus_FMFT_MainMenuTheme.uasset",
 				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Sound/OST/MainMenuTheme/mus_FMFT_MainMenuThemeIdle.uasset",
-				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_MainMenu.uasset"
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_MainMenu.uasset",
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_MenuButtonsTemplate.uasset",
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Levels/GM_MainMenu.uasset",
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Levels/MainMenu/GM_MainMenu.uasset",
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Levels/MainMenu/BP_MainMenuPawn.uasset",
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Sound/OST/MainMenuTheme/SC_MainMenuThemeFull.uasset",
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Levels/MainMenu.umap",
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Sound/OST/MainMenuTheme/MS_MainMenuTheme.uasset",
+				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/W_MainMenu.uasset"
 			]
 		}
 	]
