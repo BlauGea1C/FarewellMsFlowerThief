@@ -2213,3 +2213,973 @@ LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 [2025.09.28-08.43.11:821][767]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.28-08.43.11:821][767]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.28-08.43.11:822][767]AssetCheck: /Game/Assets/Widgets/WBP_MainMenu Validating asset
+[2025.09.28-08.43.50:595][674]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.28-08.43.51:958][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.28-08.43.53:545][743]LogSlate: Window 'Save Content' being destroyed
+[2025.09.28-08.43.53:557][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.43.53:621][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Widgets/WBP_MainMenu] ([2] browsable assets)...
+[2025.09.28-08.43.53:621][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_MainMenu]
+[2025.09.28-08.43.53:621][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/WBP_MainMenu" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2025.09.28-08.43.53:636][743]LogSavePackage: Moving output files for package: /Game/Assets/Widgets/WBP_MainMenu
+[2025.09.28-08.43.53:637][743]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_MainMenuA24DC25144663132B991FAB321250620.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_MainMenu.uasset'
+[2025.09.28-08.43.53:708][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.712 ms (total: 1.07 sec)
+[2025.09.28-08.43.53:708][743]LogStreaming: Display: FlushAsyncLoading(688): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.28-08.43.53:718][743]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.09.28-08.43.53:718][743]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.28-08.43.53:718][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-08.43.53:718][743]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-08.43.53:752][743]LogWorldPartition: Display: WorldPartition initialize took 33.815 ms (total: 120.822 ms)
+[2025.09.28-08.43.53:755][743]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.28-08.43.53:755][743]Cmd: MAP LOAD FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.28-08.43.53:817][743]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-08.43.53:818][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-08.43.53:848][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.28-08.43.53:851][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.28-08.43.53:853][743]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-08.43.53:853][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-08.43.53:853][743]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.28-08.43.53:888][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.28-08.43.53:917][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.28-08.43.53:922][743]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2025.09.28-08.43.53:922][743]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.09.28-08.43.53:924][743]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.28-08.43.53:924][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-08.43.53:924][743]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-08.43.53:948][743]LogWorldPartition: Display: WorldPartition initialize took 24.376 ms (total: 145.199 ms)
+[2025.09.28-08.43.53:981][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.28-08.43.54:012][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.09.28-08.43.54:018][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.28-08.43.54:019][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.556ms to complete.
+[2025.09.28-08.43.54:106][743]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.43.54:106][743]LogContentValidation: Enabled validators:
+[2025.09.28-08.43.54:106][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.43.54:106][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.43.54:106][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.43.54:106][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.43.54:106][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.43.54:106][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.43.54:107][743]AssetCheck: /Game/Assets/Widgets/WBP_MainMenu Validating asset
+[2025.09.28-08.44.42:609][821]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.28-08.44.42:623][821]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.28-08.44.42:644][822]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.28-08.44.45:399][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1038.386108
+[2025.09.28-08.44.45:568][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-08.44.45:569][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1038.531982, Update Interval: 342.472595
+[2025.09.28-08.44.48:387][280]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.09.28-08.44.48:388][280]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.28-08.44.53:912][688]LogContentBrowser: Attempting asset rename: NewFolder -> PixelShader
+[2025.09.28-08.44.57:139][931]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.09.28-08.44.57:154][931]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.09.28-08.44.57:221][933]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.09.28-08.45.05:776][648]LogContentBrowser: Attempting asset rename: NewMaterial -> MS_PixelShader
+[2025.09.28-08.45.05:778][648]LogContentBrowser: End creating deferred item NewMaterial
+[2025.09.28-08.45.06:918][711]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/PixelShader/MS_PixelShader.MS_PixelShader
+[2025.09.28-08.45.06:945][711]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.28-08.45.06:952][711]LogStreaming: Display: FlushAsyncLoading(822): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.28-08.45.06:986][711]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.09.28-08.45.07:013][711]LogStaticMesh: Built static mesh [0.04s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.09.28-08.45.07:099][711]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.09.28-08.45.07:100][711]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.09.28-08.45.07:659][711]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.45.07:659][711]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.45.07:659][711]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.45.07:659][711]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.45.07:977][713]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.45.07:977][713]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.45.07:977][713]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.45.07:977][713]MaterialEditorStats: Shader Count: 3
+[2025.09.28-08.45.07:977][713]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.45.09:087][772]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.28-08.45.09:087][772]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.45.09:087][772]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.45.09:087][772]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.45.09:087][772]MaterialEditorStats: Shader Count: 4
+[2025.09.28-08.45.09:087][772]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.45.16:197][199]LogSlate: Window 'MS_PixelShader' being destroyed
+[2025.09.28-08.45.16:206][199]LogSlate: Window 'MS_PixelShader' being destroyed
+[2025.09.28-08.45.16:230][199]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-08.45.16:230][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-08.45.16:310][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.28-08.45.25:531][947]LogContentBrowser: Attempting asset rename: MS_PixelShader -> MM_PixelGraphics
+[2025.09.28-08.45.25:674][947]LogMaterial: Display: MaterialInterface MS_PixelShader has a incorrectly name EditorOnlyData 'MS_PixelShaderEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MM_PixelGraphicsEditorOnlyData'.
+[2025.09.28-08.45.25:688][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.45.25:688][947]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.45.25:763][947]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.45.25:763][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.45.25:763][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.45.25:766][947]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.45.25:766][947]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphics1D8F17BE4F3FC828AD7E0BB2197CFCB9.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.45.25:768][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.132 ms (total: 1.15 sec)
+[2025.09.28-08.45.25:810][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.28-08.45.25:842][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.28-08.45.25:874][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.09.28-08.45.25:941][947]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.45.25:941][947]LogContentValidation: Enabled validators:
+[2025.09.28-08.45.25:941][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.45.25:941][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.45.25:941][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.45.25:941][947]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.45.25:941][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.45.25:941][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.45.25:941][947]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.45.25:997][947]LogSourceControl: Display: Uncontrolled Changelist persistency file saved H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.28-08.45.26:464][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.45.26:523][974]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.45.26:523][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.45.26:523][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.45.26:524][974]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.45.26:525][974]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphics445535774E7232BD2D2C75A803F62CC7.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.45.26:539][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.166 ms (total: 1.23 sec)
+[2025.09.28-08.45.26:610][974]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.45.26:610][974]LogContentValidation: Enabled validators:
+[2025.09.28-08.45.26:610][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.45.26:610][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.45.26:610][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.45.26:610][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.45.26:610][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.45.26:610][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.45.26:610][974]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.45.27:328][ 10]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics
+[2025.09.28-08.45.27:331][ 10]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.28-08.45.27:888][ 10]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.45.27:888][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.45.27:888][ 10]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.45.27:888][ 10]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.45.28:027][ 12]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.09.28-08.45.28:027][ 12]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.45.28:027][ 12]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.45.28:027][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.45.28:027][ 12]MaterialEditorStats: Shader Count: 4
+[2025.09.28-08.45.28:027][ 12]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.45.30:205][126]LogShaderCompilers: Display: ================================================
+[2025.09.28-08.45.30:205][126]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Total job queries 385, among them cache hits 47 (12.21%), DDC hits 269 (69.87%), Duplicates 66 (17.14%)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Tracking 272 distinct input hashes that result in 194 distinct outputs (71.32%)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: RAM used: 2.76 MiB of 1.60 GiB budget. Usage: 0.17%
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Shaders Compiled: 3
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Job execution time: average 1.24 s, max 1.24 s
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 1.34
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Shader code size: total 21.895 KiB, numShaders 3, average 7.298 KiB, min 6.402 KiB, max 7.754 KiB
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.34 s
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Average processing rate: 2.23 jobs/sec
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Total thread time: 2.15 s
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Total thread preprocess time: 5.385 s
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Percentage time preprocessing: 250.44%
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Effective parallelization: 1.60 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.199835
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.72 sec, max 0.74 sec, min 0.71 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    3 times, average 0.72 sec, max 0.74 sec, min 0.71 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-08.45.30:206][126]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.28-08.45.30:207][126]LogShaderCompilers: Display: === Material stats ===
+[2025.09.28-08.45.30:207][126]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.28-08.45.30:207][126]LogShaderCompilers: Display: Materials Translated:    146
+[2025.09.28-08.45.30:207][126]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2025.09.28-08.45.30:207][126]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2025.09.28-08.45.30:207][126]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.28-08.45.30:207][126]LogShaderCompilers: Display: Material Cache Hits: 19 (13%)
+[2025.09.28-08.45.30:207][126]LogShaderCompilers: Display: ================================================
+[2025.09.28-08.45.38:140][614]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.45.38:140][614]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.45.38:140][614]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.45.38:140][614]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.47.09:136][214]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.28-08.47.09:210][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.28-08.47.10:201][265]LogEditorTransaction: Undo Material Editor: New Function Call
+[2025.09.28-08.47.10:322][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.28-08.47.10:427][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.09.28-08.47.10:654][267]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.47.10:654][267]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.47.10:654][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.47.10:654][267]MaterialEditorStats: Shader Count: 1
+[2025.09.28-08.47.10:654][267]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.47.12:138][347]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.47.12:138][347]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.47.12:138][347]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.47.12:138][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.47.12:138][347]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.47.12:138][347]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.47.23:437][168]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.47.23:437][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.47.23:437][168]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.47.23:437][168]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.47.24:457][225]LogEditorTransaction: Undo Material Editor: New Function Call
+[2025.09.28-08.47.24:551][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.28-08.47.24:641][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.28-08.47.24:871][227]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.47.24:871][227]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.47.24:871][227]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.47.24:871][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.47.24:871][227]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.47.24:871][227]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.48.04:270][684]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.48.04:270][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.48.04:270][684]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.48.04:270][684]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.48.22:080][847]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.48.22:184][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.28-08.48.22:293][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.28-08.48.22:308][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.48.22:360][847]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.48.22:393][847]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.48.22:393][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.48.22:393][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.48.22:396][847]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.48.22:396][847]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphics528A78374AAB0343437D16B05C8A5014.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.48.22:409][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.209 ms (total: 1.33 sec)
+[2025.09.28-08.48.22:480][847]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.48.22:480][847]LogContentValidation: Enabled validators:
+[2025.09.28-08.48.22:480][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.48.22:480][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.48.22:480][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.48.22:480][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.48.22:480][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.48.22:480][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.48.22:480][847]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.48.22:498][847]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.48.22:498][847]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.48.22:498][847]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.48.22:498][847]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.48.22:498][847]MaterialEditorStats: Shader Count: 8
+[2025.09.28-08.48.22:498][847]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.48.30:213][308]LogShaderCompilers: Display: ================================================
+[2025.09.28-08.48.30:213][308]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.28-08.48.30:213][308]LogShaderCompilers: Display: Total job queries 464, among them cache hits 115 (24.78%), DDC hits 272 (58.62%), Duplicates 66 (14.22%)
+[2025.09.28-08.48.30:213][308]LogShaderCompilers: Display: Tracking 283 distinct input hashes that result in 202 distinct outputs (71.38%)
+[2025.09.28-08.48.30:213][308]LogShaderCompilers: Display: RAM used: 2.80 MiB of 1.60 GiB budget. Usage: 0.17%
+[2025.09.28-08.48.30:213][308]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Shaders Compiled: 11
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Average time worker was idle: 66.94 s
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 1.24 s
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Job life time (pending + execution): average 0.91 s, max 1.34
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Shader code size: total 67.934 KiB, numShaders 11, average 6.176 KiB, min 2.043 KiB, max 7.754 KiB
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.31 s
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Average processing rate: 2.55 jobs/sec
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Total thread time: 6.148 s
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Total thread preprocess time: 6.154 s
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Percentage time preprocessing: 100.09%
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Effective parallelization: 1.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.178235
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.66 sec, max 0.76 sec, min 0.46 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.51 sec, min 0.46 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                       FPostProcessMaterialPS (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 64.70% of total time (compiled    6 times, average 0.66 sec, max 0.76 sec, min 0.46 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.82% of total time (compiled    2 times, average 0.49 sec, max 0.51 sec, min 0.46 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.34% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.92% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 3.22% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: === Material stats ===
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Materials Translated:    172
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Material Translation Only: 0.04 s (35%)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: Material Cache Hits: 19 (11%)
+[2025.09.28-08.48.30:214][308]LogShaderCompilers: Display: ================================================
+[2025.09.28-08.48.53:172][683]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.48.53:172][683]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.48.53:172][683]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.48.53:172][683]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.49.05:276][417]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.49.05:383][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.28-08.49.05:477][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.28-08.49.05:493][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.49.05:545][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.49.05:576][417]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.49.05:576][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.49.05:576][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.49.05:578][417]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.49.05:579][417]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphics580288124B8F4165328D66B3C92A173E.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.49.05:592][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.692 ms (total: 1.43 sec)
+[2025.09.28-08.49.05:644][417]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.49.05:644][417]LogContentValidation: Enabled validators:
+[2025.09.28-08.49.05:644][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.49.05:644][417]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.49.05:644][417]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.49.05:644][417]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.49.05:644][417]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.49.05:644][417]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.49.05:644][417]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.49.05:662][417]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.49.05:662][417]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.49.05:662][417]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.49.05:662][417]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.49.05:662][417]MaterialEditorStats: Shader Count: 8
+[2025.09.28-08.49.05:662][417]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.49.15:775][ 59]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.49.15:775][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.09.28-08.49.15:775][ 59]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.49.15:775][ 59]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.09.28-08.50.37:885][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1390.867676
+[2025.09.28-08.50.38:062][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-08.50.38:062][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1391.028809, Update Interval: 343.706787
+[2025.09.28-08.51.24:540][706]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_PixelGraphics: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface. PostProcessMaterials should use the SceneTexture PostProcessInput0.
+	Only 'surface' material domain can use the scene color node.
+
+[2025.09.28-08.51.24:546][706]MaterialEditorStats: Error: [SM6] (Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface. PostProcessMaterials should use the SceneTexture PostProcessInput0.
+[2025.09.28-08.51.24:546][706]MaterialEditorStats: Error: [SM6] Only 'surface' material domain can use the scene color node.
+[2025.09.28-08.51.35:911][398]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.51.35:911][398]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.51.35:911][398]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.51.35:911][398]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.51.36:640][432]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.51.36:640][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.51.36:640][432]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.51.36:640][432]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.51.37:216][461]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.51.37:296][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.09.28-08.51.37:398][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.28-08.51.37:415][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.51.37:466][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.51.38:530][461]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.51.38:530][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.51.38:530][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.51.38:533][461]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.51.38:534][461]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphicsB6AFA182499CC52FE18B5A80CD778057.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.51.38:540][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec (total: 2.55 sec)
+[2025.09.28-08.51.38:599][461]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.51.38:599][461]LogContentValidation: Enabled validators:
+[2025.09.28-08.51.38:599][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.51.38:599][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.51.38:599][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.51.38:599][461]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.51.38:599][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.51.38:599][461]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.51.38:599][461]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.51.38:617][461]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.51.38:618][461]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.51.38:618][461]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.51.38:618][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.51.38:618][461]MaterialEditorStats: Shader Count: 8
+[2025.09.28-08.51.38:618][461]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.52.35:068][797]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.52.35:068][797]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.52.35:068][797]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.52.35:068][797]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.52.35:252][800]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.52.35:252][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.52.35:252][800]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.52.35:252][800]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.52.36:699][894]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.52.36:699][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.52.36:699][894]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.52.36:699][894]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.52.36:838][897]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.52.36:839][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.52.36:839][897]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.52.36:839][897]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.52.39:222][ 56]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.52.39:222][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.52.39:222][ 56]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.52.39:222][ 56]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.52.39:359][ 59]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.52.39:359][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.52.39:359][ 59]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.52.39:359][ 59]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.53.02:962][608]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.53.02:962][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.53.02:962][608]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.53.02:962][608]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.53.03:122][611]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.53.03:122][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.53.03:122][611]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.53.03:122][611]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.53.17:786][557]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.53.17:786][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.53.17:786][557]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.53.17:786][557]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.53.17:863][559]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.53.17:863][559]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.53.17:863][559]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.53.17:863][559]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.54.03:480][445]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.03:985][453]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.04:308][469]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.04:575][485]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.04:796][496]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.04:993][507]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.05:185][516]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.06:147][578]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.06:640][609]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.06:834][619]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.07:031][629]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.07:269][632]LogEditorTransaction: Undo Nudge Node
+[2025.09.28-08.54.07:471][635]LogEditorTransaction: Undo Rename Node
+[2025.09.28-08.54.07:567][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.28-08.54.07:721][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.28-08.54.07:746][635]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.54.07:746][635]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.54.07:746][635]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.54.07:746][635]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.54.07:854][637]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.54.07:854][637]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.54.07:854][637]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.54.07:854][637]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.54.07:854][637]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.54.07:854][637]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.54.14:260][ 54]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.54.14:345][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.09.28-08.54.14:452][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.28-08.54.14:468][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.54.14:553][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.54.14:620][ 54]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.54.14:620][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.54.14:620][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.54.14:623][ 54]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.54.14:624][ 54]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphicsE44E54A0456DC2FAD1CD56B6BA6DB2F4.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.54.14:637][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.021 ms (total: 2.72 sec)
+[2025.09.28-08.54.14:707][ 54]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.54.14:707][ 54]LogContentValidation: Enabled validators:
+[2025.09.28-08.54.14:707][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.54.14:707][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.54.14:708][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.54.14:708][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.54.14:708][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.54.14:708][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.54.14:708][ 54]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.54.14:730][ 54]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.54.14:730][ 54]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.54.14:730][ 54]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.54.14:730][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.54.14:730][ 54]MaterialEditorStats: Shader Count: 8
+[2025.09.28-08.54.14:731][ 54]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.54.22:994][585]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.54.23:074][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.28-08.54.23:200][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.09.28-08.54.23:216][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.54.23:271][585]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.54.23:339][585]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.54.23:339][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.54.23:339][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.54.23:343][585]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.54.23:344][585]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphics26EDA7D54D3ECD0333951EBC8E8536B0.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.54.23:356][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.936 ms (total: 2.86 sec)
+[2025.09.28-08.54.23:421][585]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.54.23:421][585]LogContentValidation: Enabled validators:
+[2025.09.28-08.54.23:421][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.54.23:421][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.54.23:421][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.54.23:421][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.54.23:421][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.54.23:421][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.54.23:421][585]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: ================================================
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Total job queries 632, among them cache hits 277 (43.83%), DDC hits 274 (43.35%), Duplicates 67 (10.60%)
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Tracking 288 distinct input hashes that result in 205 distinct outputs (71.18%)
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: RAM used: 2.82 MiB of 1.60 GiB budget. Usage: 0.17%
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Shaders Compiled: 14
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Average time worker was idle: 89.26 s
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 1.24 s
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 1.34
+[2025.09.28-08.54.30:232][  6]LogShaderCompilers: Display: Shader code size: total 86.176 KiB, numShaders 14, average 6.155 KiB, min 2.043 KiB, max 9.422 KiB
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.88 s
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Average processing rate: 2.38 jobs/sec
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Total thread time: 7.787 s
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Total thread preprocess time: 7.746 s
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Percentage time preprocessing: 99.47%
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Effective parallelization: 1.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.165623
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.63 sec, max 0.76 sec, min 0.44 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.49 sec, max 0.51 sec, min 0.46 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 56.70% of total time (compiled    7 times, average 0.63 sec, max 0.76 sec, min 0.44 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.49% of total time (compiled    2 times, average 0.49 sec, max 0.51 sec, min 0.46 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.06% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.59% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.25% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: === Material stats ===
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Materials Translated:    220
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Material Translation Only: 0.05 s (36%)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: Material Cache Hits: 19 (9%)
+[2025.09.28-08.54.30:233][  6]LogShaderCompilers: Display: ================================================
+[2025.09.28-08.54.42:254][778]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.54.42:254][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.54.42:254][778]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.54.42:254][778]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.54.42:362][780]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.54.42:362][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.54.42:362][780]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.54.42:362][780]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.55.15:915][990]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.55.15:915][990]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.55.15:915][990]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.55.15:915][990]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.55.16:016][992]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.55.16:016][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.55.16:016][992]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.55.16:016][992]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.55.25:517][609]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.55.25:602][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.09.28-08.55.25:721][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.09.28-08.55.25:737][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.55.25:789][609]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.55.25:856][609]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.55.25:856][609]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.55.25:856][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.55.25:860][609]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.55.25:860][609]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphics1CA16FE94B230639D7FE9D94C75EFC2F.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.55.25:873][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.534 ms (total: 3.00 sec)
+[2025.09.28-08.55.25:940][609]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.55.25:940][609]LogContentValidation: Enabled validators:
+[2025.09.28-08.55.25:940][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.55.25:940][609]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.55.25:940][609]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.55.25:940][609]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.55.25:940][609]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.55.25:940][609]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.55.25:940][609]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.55.25:962][609]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.55.25:962][609]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.55.25:962][609]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.55.25:962][609]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.55.25:962][609]MaterialEditorStats: Shader Count: 8
+[2025.09.28-08.55.25:962][609]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.55.37:656][335]MaterialEditorStats: Texture samplers: 0/16
+[2025.09.28-08.55.37:656][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.55.37:656][335]MaterialEditorStats: Shader Count: 0
+[2025.09.28-08.55.37:656][335]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.55.37:816][338]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.55.37:816][338]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.55.37:817][338]MaterialEditorStats: Shader Count: 2
+[2025.09.28-08.55.37:817][338]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.55.57:797][705]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.55.57:883][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.09.28-08.55.57:988][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.28-08.55.58:005][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.55.58:063][705]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.55.58:162][705]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.55.58:162][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.55.58:162][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.55.58:166][705]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.55.58:166][705]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphicsBBC53FBA4EEBB2EBCC61E48222F0E304.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.55.58:181][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.836 ms (total: 3.17 sec)
+[2025.09.28-08.55.58:240][705]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.55.58:240][705]LogContentValidation: Enabled validators:
+[2025.09.28-08.55.58:240][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.55.58:241][705]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.55.58:241][705]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.55.58:241][705]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.55.58:241][705]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.55.58:241][705]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.55.58:241][705]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.55.58:260][705]MaterialEditorStats: Base pass shader without light map: 84 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.55.58:261][705]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.09.28-08.55.58:261][705]MaterialEditorStats: Texture samplers: 1/16
+[2025.09.28-08.55.58:261][705]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2025.09.28-08.55.58:261][705]MaterialEditorStats: Shader Count: 8
+[2025.09.28-08.55.58:261][705]MaterialEditorStats: Preshaders: 4  (6 param fetches, 13 ops)
+[2025.09.28-08.56.03:007][ 30]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.56.03:088][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.28-08.56.03:192][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.09.28-08.56.03:210][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.56.03:282][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.56.03:350][ 30]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/PixelShader/MM_PixelGraphics.MM_PixelGraphics]
+[2025.09.28-08.56.03:350][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.56.03:350][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.56.03:353][ 30]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.56.03:353][ 30]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphics5007BEC7470D8EBD1B5A5698CE9285F5.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.56.03:369][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.486 ms (total: 3.33 sec)
+[2025.09.28-08.56.03:424][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.56.03:424][ 30]LogContentValidation: Enabled validators:
+[2025.09.28-08.56.03:424][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.56.03:424][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.56.03:424][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.56.03:424][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.56.03:424][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.56.03:424][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.56.03:424][ 30]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.56.08:581][317]LogMaterialEditor: Saving and Compiling material MM_PixelGraphics
+[2025.09.28-08.56.08:584][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.56.08:642][317]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/PixelShader/MM_PixelGraphics] ([1] browsable assets)...
+[2025.09.28-08.56.08:642][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MM_PixelGraphics]
+[2025.09.28-08.56.08:642][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MM_PixelGraphics" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset" SILENT=true
+[2025.09.28-08.56.08:645][317]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MM_PixelGraphics
+[2025.09.28-08.56.08:646][317]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MM_PixelGraphicsE9C70E3547ACC031B9C8C592CB25C697.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MM_PixelGraphics.uasset'
+[2025.09.28-08.56.08:662][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.712 ms (total: 3.41 sec)
+[2025.09.28-08.56.08:723][317]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.56.08:723][317]LogContentValidation: Enabled validators:
+[2025.09.28-08.56.08:723][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.56.08:723][317]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.56.08:723][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.56.08:723][317]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.56.08:723][317]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.56.08:723][317]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.56.08:723][317]AssetCheck: /Game/Assets/PixelShader/MM_PixelGraphics Validating asset
+[2025.09.28-08.56.21:989][ 35]LogContentBrowser: Deferred new asset file creation: MM_PixelGraphics_Inst
+[2025.09.28-08.56.22:010][ 35]LogContentBrowser: Creating deferred item: MM_PixelGraphics_Inst
+[2025.09.28-08.56.22:032][ 36]LogContentBrowser: Renaming the item being created (Deferred Item: MM_PixelGraphics_Inst).
+[2025.09.28-08.56.29:242][436]LogContentBrowser: Attempting asset rename: MM_PixelGraphics_Inst -> MI_PixelGraphics_Inst
+[2025.09.28-08.56.29:244][436]LogContentBrowser: End creating deferred item MM_PixelGraphics_Inst
+[2025.09.28-08.56.30:739][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.56.30:793][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MI_PixelGraphics_Inst] ([1] browsable assets)...
+[2025.09.28-08.56.30:804][499]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/PixelShader/MI_PixelGraphics_Inst.MI_PixelGraphics_Inst]
+[2025.09.28-08.56.30:804][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MI_PixelGraphics_Inst]
+[2025.09.28-08.56.30:804][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MI_PixelGraphics_Inst" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MI_PixelGraphics_Inst.uasset" SILENT=true
+[2025.09.28-08.56.30:806][499]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MI_PixelGraphics_Inst
+[2025.09.28-08.56.30:806][499]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MI_PixelGraphics_Inst802E0DA746DAD83C05EAC5B8587B12B2.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MI_PixelGraphics_Inst.uasset'
+[2025.09.28-08.56.30:820][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.066 ms (total: 3.49 sec)
+[2025.09.28-08.56.30:874][499]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.56.30:874][499]LogContentValidation: Enabled validators:
+[2025.09.28-08.56.30:874][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.56.30:874][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.56.30:874][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.56.30:874][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.56.30:874][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.56.30:874][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.56.30:875][499]AssetCheck: /Game/Assets/PixelShader/MI_PixelGraphics_Inst Validating asset
+[2025.09.28-08.56.30:940][499]LogSourceControl: Display: Uncontrolled Changelist persistency file saved H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.28-08.56.31:369][517]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/PixelShader/MI_PixelGraphics_Inst.MI_PixelGraphics_Inst
+[2025.09.28-08.56.31:371][517]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.28-08.56.45:854][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.56.45:908][446]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MI_PixelGraphics_Inst] ([1] browsable assets)...
+[2025.09.28-08.56.45:953][446]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/PixelShader/MI_PixelGraphics_Inst.MI_PixelGraphics_Inst]
+[2025.09.28-08.56.45:953][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MI_PixelGraphics_Inst]
+[2025.09.28-08.56.45:953][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MI_PixelGraphics_Inst" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MI_PixelGraphics_Inst.uasset" SILENT=true
+[2025.09.28-08.56.46:007][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.28-08.56.46:048][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.28-08.56.46:051][446]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MI_PixelGraphics_Inst
+[2025.09.28-08.56.46:052][446]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MI_PixelGraphics_Inst5C64E3DC49723FB25CF6ECAF61647E33.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MI_PixelGraphics_Inst.uasset'
+[2025.09.28-08.56.46:067][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.447 ms (total: 3.70 sec)
+[2025.09.28-08.56.46:126][446]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.56.46:127][446]LogContentValidation: Enabled validators:
+[2025.09.28-08.56.46:127][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.56.46:127][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.56.46:127][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.56.46:127][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.56.46:127][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.56.46:127][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.56.46:127][446]AssetCheck: /Game/Assets/PixelShader/MI_PixelGraphics_Inst Validating asset
+[2025.09.28-08.56.47:910][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1760.895752
+[2025.09.28-08.56.48:059][565]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.28-08.56.48:060][565]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1761.030029, Update Interval: 319.206512
+[2025.09.28-08.56.53:883][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.28-08.56.53:886][917]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.28-08.56.53:886][917]Cmd: MAP LOAD FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.28-08.56.53:905][917]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-08.56.53:906][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-08.56.53:906][917]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.28-08.56.53:942][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.28-08.56.53:947][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.28-08.56.53:949][917]LogStreaming: Display: FlushAsyncLoading(828): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.28-08.56.53:952][917]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2025.09.28-08.56.53:952][917]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.09.28-08.56.53:955][917]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.09.28-08.56.53:955][917]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-08.56.53:955][917]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-08.56.54:059][917]LogWorldPartition: Display: WorldPartition initialize took 104.561 ms (total: 249.760 ms)
+[2025.09.28-08.56.54:097][917]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.28-08.56.54:127][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.09.28-08.56.54:135][917]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.28-08.56.54:135][917]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.52ms to complete.
+[2025.09.28-08.57.02:763][598]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.28-08.57.04:677][808]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.09.28-08.57.04:678][808]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.09.28-08.57.04:683][808]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.PostProcessVolume_UAID_2CF05D74C702469302_1595817047
+[2025.09.28-08.57.04:688][808]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.PostProcessVolume_UAID_2CF05D74C702469302_1595817047
+[2025.09.28-08.57.04:747][808]LogStreaming: Display: FlushAsyncLoading(895): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.28-08.58.21:272][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.58.21:349][213]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/UV/WCPVLCX01FPJ3CA87N5V3P
+[2025.09.28-08.58.21:349][213]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WCPVLCX01FPJ3CA87N5V3P0050EAF24746774E189B2F8C0DEF0118.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/UV/WCPVLCX01FPJ3CA87N5V3P.uasset'
+[2025.09.28-08.58.21:363][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.561 ms (total: 3.80 sec)
+[2025.09.28-08.58.21:429][213]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.58.21:429][213]LogContentValidation: Enabled validators:
+[2025.09.28-08.58.21:429][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.58.21:429][213]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.58.21:429][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.58.21:429][213]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.58.21:429][213]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.58.21:429][213]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.58.21:430][213]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.09.28-08.58.21:482][213]LogSourceControl: Display: Uncontrolled Changelist persistency file saved H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.28-08.58.22:805][321]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.28-08.58.22:812][321]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.28-08.58.22:813][321]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.09.28-08.58.22:813][321]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 809 us (total: 24.620 ms)
+[2025.09.28-08.58.22:813][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.28-08.58.22:814][321]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.09.28-08.58.22:821][321]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.28-08.58.22:822][321]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.201 ms (total: 2.704 ms)
+[2025.09.28-08.58.22:822][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008167s)
+[2025.09.28-08.58.22:822][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008239s)
+[2025.09.28-08.58.22:856][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.09.28-08.58.22:860][321]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.09.28-08.58.22:861][321]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.28-08.58.22:861][321]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.28-08.58.22:861][321]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.28-08.58.22:861][321]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.28-08.58.22:863][321]LogWorldPartition: Display: WorldPartition initialize took 1.521 ms (total: 251.282 ms)
+[2025.09.28-08.58.22:863][321]LogPlayLevel: PIE: World Init took: (0.003339s)
+[2025.09.28-08.58.22:864][321]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.09.28-08.58.22:864][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.28-08.58.22:864][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.28-08.58.22:864][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.28-08.58.22:864][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.28-08.58.22:864][321]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.28-08.58.22:864][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.28-08.58.22:864][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.28-08.58.22:864][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.28-08.58.22:864][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.28-08.58.22:864][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.28-08.58.22:864][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.28-08.58.22:866][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.28-08.58.22:895][321]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Focusrite USB Audio)
+[2025.09.28-08.58.22:896][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.28-08.58.22:896][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.28-08.58.22:896][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.28-08.58.22:897][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.09.28-08.58.22:897][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.09.28-08.58.22:900][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.09.28-08.58.22:900][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.09.28-08.58.22:900][321]LogInit: FAudioDevice initialized with ID 16.
+[2025.09.28-08.58.22:900][321]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lvl_ThirdPerson'.
+[2025.09.28-08.58.22:900][321]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.09.28-08.58.22:916][321]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.28-08.58.22:919][321]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.09.28-10.58.22
+[2025.09.28-08.58.22:919][321]LogWorld: Bringing up level for play took: 0.002565
+[2025.09.28-08.58.22:922][321]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.09.28-08.58.22:927][321]PIE: Server logged in
+[2025.09.28-08.58.22:929][321]PIE: Play in editor total start time 0.116 seconds.
+[2025.09.28-08.58.27:287][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-08.58.27:287][640]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.09.28-08.58.27:287][640]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.28-08.58.27:288][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-08.58.27:288][640]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.28-08.58.27:290][640]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.28-08.58.27:297][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.28-08.58.27:327][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.28-08.58.27:328][640]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.09.28-08.58.27:328][640]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.09.28-08.58.27:330][640]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.09.28-08.58.27:339][640]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.09.28-08.58.27:441][641]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.09.28-08.59.13:979][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.59.14:045][983]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MI_PixelGraphics_Inst] ([1] browsable assets)...
+[2025.09.28-08.59.14:094][983]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/PixelShader/MI_PixelGraphics_Inst.MI_PixelGraphics_Inst]
+[2025.09.28-08.59.14:094][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MI_PixelGraphics_Inst]
+[2025.09.28-08.59.14:094][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MI_PixelGraphics_Inst" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MI_PixelGraphics_Inst.uasset" SILENT=true
+[2025.09.28-08.59.14:131][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.09.28-08.59.14:169][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.28-08.59.14:173][983]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MI_PixelGraphics_Inst
+[2025.09.28-08.59.14:174][983]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MI_PixelGraphics_InstC3354D8F4D8768A379499C86A500E021.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MI_PixelGraphics_Inst.uasset'
+[2025.09.28-08.59.14:193][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 214.401 ms (total: 4.01 sec)
+[2025.09.28-08.59.14:272][983]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.59.14:272][983]LogContentValidation: Enabled validators:
+[2025.09.28-08.59.14:272][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.59.14:272][983]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.59.14:272][983]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.59.14:272][983]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.59.14:272][983]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.59.14:272][983]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.59.14:272][983]AssetCheck: /Game/Assets/PixelShader/MI_PixelGraphics_Inst Validating asset
+[2025.09.28-08.59.30:553][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.28-08.59.30:629][168]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/PixelShader/MI_PixelGraphics_Inst] ([1] browsable assets)...
+[2025.09.28-08.59.30:771][168]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/PixelShader/MI_PixelGraphics_Inst.MI_PixelGraphics_Inst]
+[2025.09.28-08.59.30:771][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/PixelShader/MI_PixelGraphics_Inst]
+[2025.09.28-08.59.30:771][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PixelShader/MI_PixelGraphics_Inst" FILE="H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MI_PixelGraphics_Inst.uasset" SILENT=true
+[2025.09.28-08.59.30:807][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.28-08.59.30:838][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.28-08.59.30:842][168]LogSavePackage: Moving output files for package: /Game/Assets/PixelShader/MI_PixelGraphics_Inst
+[2025.09.28-08.59.30:843][168]LogSavePackage: Moving 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Saved/MI_PixelGraphics_Inst1A9454774A5E25C4E66873884F8FD197.tmp' to 'H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PixelShader/MI_PixelGraphics_Inst.uasset'
+[2025.09.28-08.59.30:856][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 302.368 ms (total: 4.31 sec)
+[2025.09.28-08.59.30:913][168]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.28-08.59.30:913][168]LogContentValidation: Enabled validators:
+[2025.09.28-08.59.30:913][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.28-08.59.30:913][168]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.28-08.59.30:913][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.28-08.59.30:913][168]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.28-08.59.30:913][168]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.28-08.59.30:913][168]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.28-08.59.30:913][168]AssetCheck: /Game/Assets/PixelShader/MI_PixelGraphics_Inst Validating asset
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: ================================================
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Total job queries 705, among them cache hits 323 (45.82%), DDC hits 297 (42.13%), Duplicates 67 (9.50%)
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Tracking 315 distinct input hashes that result in 222 distinct outputs (70.48%)
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: RAM used: 2.92 MiB of 1.60 GiB budget. Usage: 0.18%
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Average time worker was idle: 116.39 s
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Job execution time: average 0.77 s, max 1.24 s
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 1.34
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Shader code size: total 124.746 KiB, numShaders 18, average 6.93 KiB, min 2.043 KiB, max 11.973 KiB
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.25 s
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Average processing rate: 2.48 jobs/sec
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Total thread time: 9.616 s
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Total thread preprocess time: 8.623 s
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Percentage time preprocessing: 89.67%
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Effective parallelization: 1.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.165830
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.61 sec, max 0.76 sec, min 0.44 sec)
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.09.28-09.00.30:548][792]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.44 sec, max 0.51 sec, min 0.38 sec)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 56.84% of total time (compiled    9 times, average 0.61 sec, max 0.76 sec, min 0.44 sec)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.21% of total time (compiled    4 times, average 0.44 sec, max 0.51 sec, min 0.38 sec)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.76% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.33% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.06% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: === Material stats ===
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: Materials Translated:    230
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: Material Translation Only: 0.05 s (37%)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: Material Cache Hits: 19 (8%)
+[2025.09.28-09.00.30:549][792]LogShaderCompilers: Display: ================================================
