@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Levels/MainMenu.umap",
 				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_MainMenu.uasset",
 				"H:/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_MenuButtonsTemplate.uasset",
