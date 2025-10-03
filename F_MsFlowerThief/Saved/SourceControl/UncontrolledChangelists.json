@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item1.uasset",
+				"D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Material/Item1_Mat.uasset",
+				"D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Boucer.uasset",
+				"D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/2N/B3HCQF9NF8DKB6SE5H5O9E.uasset",
+				"D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Material/M_RevelablePlatform.uasset",
+				"D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Material/MI_RevelablePlatform.uasset",
 				"D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PortalSystem/MAT_Portal.uasset",
 				"D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/PortalSystem/BP_Portal.uasset",
