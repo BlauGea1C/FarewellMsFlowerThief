@@ -12318,3 +12318,684 @@ Sampler Limit: 32
 [2025.10.03-15.09.31:072][298]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
 [2025.10.03-15.09.31:072][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.10.03-15.09.31:113][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.03-15.10.56:225][ 26]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-15.10.56:225][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-15.10.56:297][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.03-15.12.27:145][842]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5864.721680
+[2025.10.03-15.12.27:287][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-15.12.27:287][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5864.855957, Update Interval: 355.017548
+[2025.10.03-15.14.44:850][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-15.14.44:884][283]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Items/BP_Item1] ([2] browsable assets)...
+[2025.10.03-15.14.44:972][283]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Items/BP_Item1.BP_Item1]
+[2025.10.03-15.14.44:972][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Items/BP_Item1]
+[2025.10.03-15.14.44:972][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Items/BP_Item1" FILE="D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item1.uasset" SILENT=true
+[2025.10.03-15.14.44:987][283]LogSavePackage: Moving output files for package: /Game/Assets/Items/BP_Item1
+[2025.10.03-15.14.44:988][283]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item1D8D33A4C400F051D87C725951F2F1188.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item1.uasset'
+[2025.10.03-15.14.44:998][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.013 ms (total: 8.89 sec)
+[2025.10.03-15.14.45:032][283]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.03-15.14.45:032][283]LogContentValidation: Enabled validators:
+[2025.10.03-15.14.45:032][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-15.14.45:032][283]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-15.14.45:032][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-15.14.45:032][283]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-15.14.45:032][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-15.14.45:032][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-15.14.45:032][283]AssetCheck: /Game/Assets/Items/BP_Item1 Validating asset
+[2025.10.03-15.14.45:912][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.10.03-15.14.48:238][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.03-15.17.12:528][185]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.17.18:420][738]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.17.23:528][222]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.17.32:610][976]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.17.37:336][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.03-15.17.38:262][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.03-15.17.38:660][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.03-15.17.41:761][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.03-15.17.42:787][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.03-15.18.09:555][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Items/BP_Item3.BP_Item3_C
+[2025.10.03-15.18.09:555][670]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Items/BP_Item3.BP_Item3_C
+[2025.10.03-15.18.09:557][670]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Items/BP_Item3.BP_Item3 as actor: BP_Item3_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Item3_C_0
+[2025.10.03-15.18.09:559][670]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Items/BP_Item3.BP_Item3 as actor: BP_Item3_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Item3_C_0
+[2025.10.03-15.18.09:563][670]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.03-15.18.10:856][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.03-15.18.10:860][786]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.03-15.18.10:868][786]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Items/BP_Item3.BP_Item3_C
+[2025.10.03-15.18.10:868][786]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Items/BP_Item3.BP_Item3_C
+[2025.10.03-15.18.10:872][786]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Items/BP_Item3.BP_Item3 as actor: BP_Item3_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Item3_C_UAID_00D8615CF3E4EE9402_1195472671
+[2025.10.03-15.18.10:875][786]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Items/BP_Item3.BP_Item3 as actor: BP_Item3_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Item3_C_UAID_00D8615CF3E4EE9402_1195472671
+[2025.10.03-15.18.45:352][931]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.03-15.18.45:362][931]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.03-15.18.45:377][932]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.03-15.18.50:843][502]LogContentBrowser: Attempting asset rename: NewMaterial -> M_item2
+[2025.10.03-15.18.50:844][502]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.03-15.19.07:522][202]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Material/M_item2.M_item2
+[2025.10.03-15.19.07:525][202]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.03-15.19.08:146][202]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.03-15.19.08:146][202]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.03-15.19.08:146][202]MaterialEditorStats: Shader Count: 0
+[2025.10.03-15.19.08:146][202]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.03-15.19.08:207][204]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.03-15.19.08:207][204]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.03-15.19.08:207][204]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.03-15.19.08:207][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.03-15.19.08:207][204]MaterialEditorStats: Shader Count: 4
+[2025.10.03-15.19.08:207][204]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.03-15.19.15:690][385]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.19.15:708][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6273.304199
+[2025.10.03-15.19.15:881][388]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-15.19.15:881][388]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6273.464355, Update Interval: 333.549622
+[2025.10.03-15.20.02:629][426]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: ================================================
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Total job queries 2621, among them cache hits 721 (27.51%), DDC hits 1312 (50.06%), Duplicates 107 (4.08%)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Tracking 1793 distinct input hashes that result in 1172 distinct outputs (65.37%)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: RAM used: 11,78 MiB of 1,60 GiB budget. Usage: 0.72%
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Shaders Compiled: 481
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Jobs assigned 481, completed 481 (100%)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Average time worker was idle: 262.96 s
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Time job spent in pending queue: average 9.49 s, longest 35.46 s
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Job execution time: average 6.08 s, max 28.07 s
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Job life time (pending + execution): average 15.57 s, max 37.31
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Shader code size: total 6,572 MiB, numShaders 505, average 13,327 KiB, min 3,082 KiB, max 49,793 KiB
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 88.86 s
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Jobs were issued in 115 batches (only local compilation was used), average 4.18 jobs/batch
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Average processing rate: 5.41 jobs/sec
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Total thread time: 383,253 s
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Total thread preprocess time: 29,121 s
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Percentage time preprocessing: 7.60%
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Effective parallelization: 4.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.078263
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 2.45 sec, max 4.91 sec, min 1.29 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 1.87 sec, max 1.87 sec, min 1.87 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 1.87 sec, max 1.87 sec, min 1.87 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 43.38% of total time (compiled   68 times, average 2.45 sec, max 4.91 sec, min 1.29 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                                               FHWRasterizeMS - 17.54% of total time (compiled  120 times, average 0.56 sec, max 0.70 sec, min 0.38 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                                               FHWRasterizeVS - 10.08% of total time (compiled   84 times, average 0.46 sec, max 0.61 sec, min 0.30 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.61% of total time (compiled   54 times, average 0.40 sec, max 0.80 sec, min 0.18 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.36% of total time (compiled   44 times, average 0.38 sec, max 0.77 sec, min 0.19 sec)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: === Material stats ===
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Materials Translated:    178
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Material Translation Only: 0.06 s (31%)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.03-15.20.02:641][426]LogShaderCompilers: Display: ================================================
+[2025.10.03-15.20.05:762][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.03-15.20.05:775][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/YB/4LCAS6IC0KKZEK1H8AR7VW_Auto6
+[2025.10.03-15.20.05:775][741]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/4LCAS6IC0KKZEK1H8AR7VW_Auto62EEEEE2547F1A4588298F9B8B0FDCE6C.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/YB/4LCAS6IC0KKZEK1H8AR7VW_Auto6.uasset'
+[2025.10.03-15.20.05:785][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/ZH/7MWE51A5WY5RIYHAEUO6LW_Auto6
+[2025.10.03-15.20.05:785][741]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/7MWE51A5WY5RIYHAEUO6LW_Auto67F74DAA14F440B5467E538B195BE3493.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/ZH/7MWE51A5WY5RIYHAEUO6LW_Auto6.uasset'
+[2025.10.03-15.20.05:785][741]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.077
+[2025.10.03-15.20.05:785][741]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2025.10.03-15.20.05:786][741]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.03-15.20.05:875][741]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.03-15.20.05:875][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.03-15.20.05:928][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2025.10.03-15.20.05:928][741]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacter_Auto67D277E70453029497BCB4CA84ABA7695.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2025.10.03-15.20.05:929][741]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material/M_item2] ([1] browsable assets)...
+[2025.10.03-15.20.05:939][741]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material/M_item2.M_item2]
+[2025.10.03-15.20.05:939][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material/M_item2]
+[2025.10.03-15.20.05:948][741]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Material/M_item2_Auto6
+[2025.10.03-15.20.05:949][741]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/M_item2_Auto641F8EF15463333956586D089992164AA.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/Material/M_item2_Auto6.uasset'
+[2025.10.03-15.20.05:949][741]LogFileHelpers: Auto-saving content packages took 0.163
+[2025.10.03-15.20.09:090][103]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.03-15.20.09:090][103]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.03-15.20.09:090][103]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.03-15.20.09:090][103]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.03-15.20.09:090][103]MaterialEditorStats: Shader Count: 4
+[2025.10.03-15.20.09:090][103]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.03-15.20.12:133][423]LogMaterialEditor: Applying material M_item2
+[2025.10.03-15.20.12:242][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.03-15.20.13:339][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.03-15.20.13:643][445]LogMaterialEditor: Saving and Compiling material M_item2
+[2025.10.03-15.20.13:646][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-15.20.13:709][445]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material/M_item2] ([1] browsable assets)...
+[2025.10.03-15.20.13:789][445]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material/M_item2.M_item2]
+[2025.10.03-15.20.13:789][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material/M_item2]
+[2025.10.03-15.20.13:806][445]LogSavePackage: Moving output files for package: /Game/Assets/Material/M_item2
+[2025.10.03-15.20.13:806][445]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/M_item2A80D6FCD4EB7D51324D319A855C41F59.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Material/M_item2.uasset'
+[2025.10.03-15.20.13:816][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 169.947 ms (total: 9.06 sec)
+[2025.10.03-15.20.13:857][445]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.03-15.20.13:857][445]LogContentValidation: Enabled validators:
+[2025.10.03-15.20.13:857][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-15.20.13:857][445]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-15.20.13:857][445]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-15.20.13:857][445]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-15.20.13:857][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-15.20.13:857][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-15.20.13:857][445]AssetCheck: /Game/Assets/Material/M_item2 Validating asset
+[2025.10.03-15.20.13:872][445]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.03-15.20.20:936][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Items/BP_Item3.BP_Item3
+[2025.10.03-15.20.20:936][123]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.03-15.20.32:734][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.03-15.20.33:293][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-15.20.33:341][257]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Items/BP_Item3] ([2] browsable assets)...
+[2025.10.03-15.20.33:379][257]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Items/BP_Item3.BP_Item3]
+[2025.10.03-15.20.33:379][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Items/BP_Item3]
+[2025.10.03-15.20.33:379][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Items/BP_Item3" FILE="D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item3.uasset" SILENT=true
+[2025.10.03-15.20.33:393][257]LogSavePackage: Moving output files for package: /Game/Assets/Items/BP_Item3
+[2025.10.03-15.20.33:394][257]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item30DC767E24B58A2BD91AA268FB2033EC2.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item3.uasset'
+[2025.10.03-15.20.33:404][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.264 ms (total: 9.18 sec)
+[2025.10.03-15.20.33:439][257]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.03-15.20.33:439][257]LogContentValidation: Enabled validators:
+[2025.10.03-15.20.33:439][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-15.20.33:439][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-15.20.33:439][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-15.20.33:439][257]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-15.20.33:439][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-15.20.33:439][257]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-15.20.33:439][257]AssetCheck: /Game/Assets/Items/BP_Item3 Validating asset
+[2025.10.03-15.20.33:460][257]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.03-15.21.06:177][579]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Items/BP_Item2.BP_Item2
+[2025.10.03-15.21.06:178][579]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.03-15.21.37:331][263]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.03-15.21.37:341][263]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.03-15.21.37:355][264]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.03-15.21.41:449][651]LogContentBrowser: Attempting asset rename: NewMaterial -> M_item3
+[2025.10.03-15.21.41:450][651]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.03-15.21.43:067][782]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Material/M_item3.M_item3
+[2025.10.03-15.21.43:071][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.03-15.21.43:855][782]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.03-15.21.43:855][782]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.03-15.21.43:855][782]MaterialEditorStats: Shader Count: 0
+[2025.10.03-15.21.43:855][782]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.03-15.21.43:918][784]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.03-15.21.43:918][784]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.03-15.21.43:918][784]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.03-15.21.43:918][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.03-15.21.43:918][784]MaterialEditorStats: Shader Count: 4
+[2025.10.03-15.21.43:918][784]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.03-15.21.54:107][878]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.21.58:479][951]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.22.01:730][299]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.10.03-15.22.01:730][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.03-15.22.01:816][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.03-15.22.01:819][299]MaterialEditorStats: Base pass shader: 176 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.03-15.22.01:819][299]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.03-15.22.01:819][299]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.03-15.22.01:819][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.03-15.22.01:819][299]MaterialEditorStats: Shader Count: 4
+[2025.10.03-15.22.01:819][299]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.03-15.22.10:347][ 90]LogMaterialEditor: Saving and Compiling material M_item3
+[2025.10.03-15.22.10:457][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.03-15.22.11:637][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.03-15.22.11:655][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-15.22.11:705][ 90]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Material/M_item3] ([1] browsable assets)...
+[2025.10.03-15.22.11:791][ 90]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Material/M_item3.M_item3]
+[2025.10.03-15.22.11:791][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Material/M_item3]
+[2025.10.03-15.22.11:804][ 90]LogSavePackage: Moving output files for package: /Game/Assets/Material/M_item3
+[2025.10.03-15.22.11:804][ 90]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/M_item3AAFEE9A243B2DD8E372ECCB8793AB6A0.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Material/M_item3.uasset'
+[2025.10.03-15.22.11:815][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.369 ms (total: 9.34 sec)
+[2025.10.03-15.22.11:904][ 90]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.03-15.22.11:904][ 90]LogContentValidation: Enabled validators:
+[2025.10.03-15.22.11:904][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-15.22.11:904][ 90]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-15.22.11:904][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-15.22.11:904][ 90]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-15.22.11:904][ 90]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-15.22.11:904][ 90]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-15.22.11:904][ 90]AssetCheck: /Game/Assets/Material/M_item3 Validating asset
+[2025.10.03-15.22.11:927][ 90]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.03-15.22.19:838][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Items/BP_Item2.BP_Item2_C
+[2025.10.03-15.22.19:838][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Items/BP_Item2.BP_Item2_C
+[2025.10.03-15.22.19:839][818]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Items/BP_Item2.BP_Item2 as actor: BP_Item2_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Item2_C_0
+[2025.10.03-15.22.19:841][818]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Items/BP_Item2.BP_Item2 as actor: BP_Item2_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Item2_C_0
+[2025.10.03-15.22.21:968][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.03-15.22.21:971][ 21]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.10.03-15.22.21:976][ 21]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Items/BP_Item2.BP_Item2_C
+[2025.10.03-15.22.21:976][ 21]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Items/BP_Item2.BP_Item2_C
+[2025.10.03-15.22.21:979][ 21]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Items/BP_Item2.BP_Item2 as actor: BP_Item2_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Item2_C_UAID_00D8615CF3E4EE9402_1446580672
+[2025.10.03-15.22.21:981][ 21]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Items/BP_Item2.BP_Item2 as actor: BP_Item2_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Item2_C_UAID_00D8615CF3E4EE9402_1446580672
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: ================================================
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: Total job queries 2665, among them cache hits 753 (28.26%), DDC hits 1312 (49.23%), Duplicates 109 (4.09%)
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: Tracking 1803 distinct input hashes that result in 1182 distinct outputs (65.56%)
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: RAM used: 11,84 MiB of 1,60 GiB budget. Usage: 0.72%
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: Shaders Compiled: 491
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: Jobs assigned 491, completed 491 (100%)
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: Average time worker was idle: 243.91 s
+[2025.10.03-15.23.02:647][144]LogShaderCompilers: Display: Time job spent in pending queue: average 9.30 s, longest 35.46 s
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Job execution time: average 5.97 s, max 28.07 s
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Job life time (pending + execution): average 15.27 s, max 37.31
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Shader code size: total 6,645 MiB, numShaders 515, average 13,211 KiB, min 3,082 KiB, max 49,793 KiB
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.89 s
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Jobs were issued in 125 batches (only local compilation was used), average 3.93 jobs/batch
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Average processing rate: 5.29 jobs/sec
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Total thread time: 388,281 s
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Total thread preprocess time: 29,628 s
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Percentage time preprocessing: 7.63%
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Effective parallelization: 4.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.045004
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 2.45 sec, max 4.91 sec, min 1.29 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 1.87 sec, max 1.87 sec, min 1.87 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 1.87 sec, max 1.87 sec, min 1.87 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 42.82% of total time (compiled   68 times, average 2.45 sec, max 4.91 sec, min 1.29 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                                               FHWRasterizeMS - 17.31% of total time (compiled  120 times, average 0.56 sec, max 0.70 sec, min 0.38 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                                               FHWRasterizeVS - 9.95% of total time (compiled   84 times, average 0.46 sec, max 0.61 sec, min 0.30 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.54% of total time (compiled   54 times, average 0.40 sec, max 0.80 sec, min 0.18 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.30% of total time (compiled   44 times, average 0.38 sec, max 0.77 sec, min 0.19 sec)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: === Material stats ===
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Materials Translated:    187
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Material Translation Only: 0.06 s (32%)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.03-15.23.02:648][144]LogShaderCompilers: Display: ================================================
+[2025.10.03-15.23.22:337][800]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2025.10.03-15.23.22:342][800]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.23.22:342][800]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.23.22:393][800]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.23.22:393][800]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.23.22:393][800]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.23.22:398][801]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.10.03-15.23.22:398][801]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.10.03-15.23.22:398][801]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.10.03-15.23.22:492][801]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.23.22:492][801]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.10.03-15.23.22:492][801]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.23.22:568][801]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.23.22:568][801]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.10.03-15.23.22:568][801]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.23.22:628][801]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.23.22:629][801]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.10.03-15.23.22:629][801]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.23.22:713][801]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.23.22:713][801]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.10.03-15.23.22:713][801]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.23.22:730][801]LogUdpMessaging: Error: Socket error detected when communicating with 127.0.0.1:56811. Banning communication to that endpoint.
+[2025.10.03-15.23.22:735][801]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.10.03-15.23.22:735][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.10.03-15.23.22:735][801]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.03-15.23.22:735][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.03-15.23.22:735][801]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10300
+[2025.10.03-15.23.22:735][801]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.03-15.23.22:747][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.03-15.23.22:748][801]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.10.03-15.43.02:501][803]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1177976ms], ThreadID=10300
+[2025.10.03-15.43.02:503][803]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.03-15.43.02:816][803]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.43.02:816][803]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.02:847][803]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.43.02:847][803]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.43.02:847][803]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.03:650][803]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.43.03:650][803]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.43.03:650][803]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.03:655][803]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:60647'.
+[2025.10.03-15.43.03:657][803]LogUdpMessaging: Display: Added local interface '192.168.56.1' to multicast group '230.0.0.1:6666'
+[2025.10.03-15.43.03:666][803]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2025.10.03-15.43.03:684][804]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.43.03:684][804]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.43.03:685][804]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.03:720][804]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.43.03:720][804]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.43.03:720][804]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.03:750][804]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.43.03:750][804]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.43.03:750][804]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.03:787][804]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.43.03:787][804]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.43.03:787][804]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.03:819][804]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.10.03-15.43.03:819][804]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.43.03:819][804]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.03:866][804]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=BenQ GL2580 (3- NVIDIA High Definition Audio), InstanceID=1
+[2025.10.03-15.43.03:866][804]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.10.03-15.43.03:866][804]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{9a03f6a0-37b6-4ca4-ba3e-ad44f8c9165e}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.10.03-15.43.04:498][804]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.10.03-15.43.04:498][804]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.10.03-15.43.04:498][804]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.10.03-15.43.04:519][805]LogHttp: Warning: 000002A67249E700: request failed, libcurl error: 6 (Could not resolve hostname)
+[2025.10.03-15.43.04:519][805]LogHttp: Warning: 000002A67249E700: libcurl info message cache 0 (Too old connection (1219 seconds idle), disconnect it)
+[2025.10.03-15.43.04:520][805]LogHttp: Warning: 000002A67249E700: libcurl info message cache 1 (Connection 2 seems to be dead)
+[2025.10.03-15.43.04:520][805]LogHttp: Warning: 000002A67249E700: libcurl info message cache 2 (shutting down connection #2)
+[2025.10.03-15.43.04:520][805]LogHttp: Warning: 000002A67249E700: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.03-15.43.04:520][805]LogHttp: Warning: 000002A67249E700: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.03-15.43.04:520][805]LogHttp: Warning: 000002A67249E700: libcurl info message cache 5 (shutting down connection #3)
+[2025.10.03-15.43.04:520][805]LogHttp: Warning: 000002A67249E700 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA720363F-4F38-B623-8682-6FB3EFC49A7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=57d508ea4421faf65dd6a39fd01a7599%7Cac10bb8943c44d8e9f0dac7396755b35%7C36f8a9dd-5b5e-47d6-a8b7-d06cf1085d12&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.05s
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BEF740A8D-41EF-0BE2-02FC-CA92DBCFF1AF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: libcurl info message cache 0 (Too old connection (1220 seconds idle), disconnect it)
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: libcurl info message cache 1 (Connection 33 seems to be dead)
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: libcurl info message cache 2 (Closing connection)
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: 000002A69AEE9000: libcurl info message cache 6 (Closing connection)
+[2025.10.03-15.43.04:520][805]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BEF740A8D-41EF-0BE2-02FC-CA92DBCFF1AF%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.03-15.43.04:546][805]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.03-15.43.04:555][805]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.10.03-15.43.04:555][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.10.03-15.43.04:555][805]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.03-15.43.04:555][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.03-15.43.04:555][805]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10300
+[2025.10.03-15.43.04:562][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEEB400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEEB400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEEB400: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEEB400: libcurl info message cache 1 (Closing connection)
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEE6C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0EE54251417D74F6E7AEE69EE6056782, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEE6C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEE6C00: libcurl info message cache 0 (Found bundle for host: 0x2a591880420 [serially])
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEE6C00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: 000002A69AEE6C00: libcurl info message cache 2 (Closing connection)
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.03-15.43.04:570][806]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0EE54251417D74F6E7AEE69EE6056782
+[2025.10.03-15.43.05:854][809]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.03-15.43.05:854][809]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0EE54251417D74F6E7AEE69EE6056782
+[2025.10.03-15.43.07:520][814]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.03-15.43.07:520][814]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=0EE54251417D74F6E7AEE69EE6056782
+[2025.10.03-15.43.13:944][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.03-15.43.13:964][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/ZH/7MWE51A5WY5RIYHAEUO6LW_Auto7
+[2025.10.03-15.43.13:964][833]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/7MWE51A5WY5RIYHAEUO6LW_Auto708048492467298BB3F06F0AD0DBF5BF1.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/ZH/7MWE51A5WY5RIYHAEUO6LW_Auto7.uasset'
+[2025.10.03-15.43.13:984][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/D5/DSMY5U7XSLQ1XFC0WPAJ81_Auto7
+[2025.10.03-15.43.13:984][833]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/DSMY5U7XSLQ1XFC0WPAJ81_Auto70D69AF214EA2498E8524D688A5301558.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/D5/DSMY5U7XSLQ1XFC0WPAJ81_Auto7.uasset'
+[2025.10.03-15.43.13:984][833]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.072
+[2025.10.03-15.43.13:984][833]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2025.10.03-15.43.13:985][833]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Items/BP_Item2] ([2] browsable assets)...
+[2025.10.03-15.43.14:035][833]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Items/BP_Item2.BP_Item2]
+[2025.10.03-15.43.14:035][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Items/BP_Item2]
+[2025.10.03-15.43.14:049][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Items/BP_Item2_Auto7
+[2025.10.03-15.43.14:049][833]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item2_Auto7D015EE9C4E0E9AC1ED506081B62BB76A.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/Items/BP_Item2_Auto7.uasset'
+[2025.10.03-15.43.14:051][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Items/BP_Item3] ([2] browsable assets)...
+[2025.10.03-15.43.14:051][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Items/BP_Item3]
+[2025.10.03-15.43.14:063][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Items/BP_Item3_Auto7
+[2025.10.03-15.43.14:063][833]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item3_Auto7D26F254348E223983DB4FFA47C5C377D.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/Items/BP_Item3_Auto7.uasset'
+[2025.10.03-15.43.14:064][833]LogFileHelpers: Auto-saving content packages took 0.080
+[2025.10.03-15.44.03:097][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7760.633789
+[2025.10.03-15.44.04:109][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-15.44.04:109][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7761.308594, Update Interval: 355.367279
+[2025.10.03-15.50.41:879][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8159.409180
+[2025.10.03-15.50.42:892][431]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-15.50.42:892][431]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8160.089355, Update Interval: 305.606873
+[2025.10.03-15.53.22:391][624]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.10.03-15.53.22:403][624]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.03-15.53.22:411][624]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.03-15.53.22:437][625]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.03-15.53.25:790][947]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2025.10.03-15.53.25:798][947]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.03-15.53.44:719][839]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_Interact
+[2025.10.03-15.53.44:836][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-15.53.44:836][839]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Widgets/WBP_Interact] ([2] browsable assets)...
+[2025.10.03-15.53.44:842][839]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Widgets/WBP_Interact.WBP_Interact]
+[2025.10.03-15.53.44:842][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_Interact]
+[2025.10.03-15.53.44:852][839]LogSavePackage: Moving output files for package: /Game/Assets/Widgets/WBP_Interact
+[2025.10.03-15.53.44:852][839]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_Interact5C88A0104EB4A5E10F9764B3DD9EE432.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_Interact.uasset'
+[2025.10.03-15.53.44:859][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.466 ms (total: 9.36 sec)
+[2025.10.03-15.53.44:900][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.03-15.53.44:926][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.03-15.53.44:950][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.03-15.53.45:026][839]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.03-15.53.45:026][839]LogContentValidation: Enabled validators:
+[2025.10.03-15.53.45:026][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-15.53.45:026][839]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-15.53.45:026][839]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-15.53.45:026][839]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-15.53.45:026][839]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-15.53.45:026][839]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-15.53.45:026][839]AssetCheck: /Game/Assets/Widgets/WBP_Interact Validating asset
+[2025.10.03-15.53.45:067][839]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.03-15.54.04:241][383]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.10.03-15.54.04:250][383]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.10.03-15.54.04:258][383]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.10.03-15.54.04:273][384]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.10.03-15.54.08:663][821]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_UI
+[2025.10.03-15.54.08:670][821]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.10.03-15.54.10:538][982]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/Widgets/WBP_UI.WBP_UI
+[2025.10.03-15.54.10:538][982]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.10.03-15.54.10:547][982]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.03-15.54.10:553][982]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.10.03-15.54.46:953][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.03-15.54.49:788][116]LogSlate: Window 'Save Content' being destroyed
+[2025.10.03-15.54.49:800][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-15.54.49:870][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/YB/4LCAS6IC0KKZEK1H8AR7VW
+[2025.10.03-15.54.49:870][116]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/4LCAS6IC0KKZEK1H8AR7VWD3DA81A54D04B7E6F5FF02B0AFE891B9.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/YB/4LCAS6IC0KKZEK1H8AR7VW.uasset'
+[2025.10.03-15.54.49:870][116]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Items/BP_Item2] ([2] browsable assets)...
+[2025.10.03-15.54.50:033][116]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Items/BP_Item2.BP_Item2]
+[2025.10.03-15.54.50:033][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Items/BP_Item2]
+[2025.10.03-15.54.50:033][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Items/BP_Item2" FILE="D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item2.uasset" SILENT=true
+[2025.10.03-15.54.50:047][116]LogSavePackage: Moving output files for package: /Game/Assets/Items/BP_Item2
+[2025.10.03-15.54.50:047][116]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item25A36C43B4976C399115753A96ADF929F.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item2.uasset'
+[2025.10.03-15.54.50:056][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/D5/DSMY5U7XSLQ1XFC0WPAJ81
+[2025.10.03-15.54.50:056][116]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/DSMY5U7XSLQ1XFC0WPAJ81A5749AEB46CF4F2A2ACC19BDFD5FA6FE.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/D5/DSMY5U7XSLQ1XFC0WPAJ81.uasset'
+[2025.10.03-15.54.50:062][116]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Items/BP_Item3] ([2] browsable assets)...
+[2025.10.03-15.54.50:090][116]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Items/BP_Item3.BP_Item3]
+[2025.10.03-15.54.50:090][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Items/BP_Item3]
+[2025.10.03-15.54.50:090][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Items/BP_Item3" FILE="D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item3.uasset" SILENT=true
+[2025.10.03-15.54.50:103][116]LogSavePackage: Moving output files for package: /Game/Assets/Items/BP_Item3
+[2025.10.03-15.54.50:104][116]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item360F6834C484BE49277ADFAB4B082B173.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Items/BP_Item3.uasset'
+[2025.10.03-15.54.50:113][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/ZH/7MWE51A5WY5RIYHAEUO6LW
+[2025.10.03-15.54.50:113][116]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/7MWE51A5WY5RIYHAEUO6LWC967C143480BE14D783646BBF18CF633.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/ZH/7MWE51A5WY5RIYHAEUO6LW.uasset'
+[2025.10.03-15.54.50:114][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.03-15.54.50:142][116]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.03-15.54.50:142][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.03-15.54.50:175][116]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.03-15.54.50:175][116]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacter4E4BE2F94F79A9B7D7751B942836BB2C.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.03-15.54.50:176][116]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Widgets/WBP_UI] ([2] browsable assets)...
+[2025.10.03-15.54.50:179][116]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Widgets/WBP_UI.WBP_UI]
+[2025.10.03-15.54.50:179][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_UI]
+[2025.10.03-15.54.50:179][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/WBP_UI" FILE="D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_UI.uasset" SILENT=true
+[2025.10.03-15.54.50:188][116]LogSavePackage: Moving output files for package: /Game/Assets/Widgets/WBP_UI
+[2025.10.03-15.54.50:188][116]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_UI17619DEA414DCCA22F108DBD5D3DB872.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_UI.uasset'
+[2025.10.03-15.54.50:204][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 402.840 ms (total: 9.76 sec)
+[2025.10.03-15.54.50:242][116]LogContentValidation: Display: Starting to validate 9 assets
+[2025.10.03-15.54.50:242][116]LogContentValidation: Enabled validators:
+[2025.10.03-15.54.50:242][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-15.54.50:242][116]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-15.54.50:242][116]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-15.54.50:242][116]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-15.54.50:242][116]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-15.54.50:242][116]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-15.54.50:242][116]AssetCheck: /Game/Assets/Items/BP_Item2 Validating asset
+[2025.10.03-15.54.50:242][116]AssetCheck: /Game/Assets/Items/BP_Item3 Validating asset
+[2025.10.03-15.54.50:242][116]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.10.03-15.54.50:242][116]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.03-15.54.50:243][116]AssetCheck: /Game/Assets/Widgets/WBP_UI Validating asset
+[2025.10.03-15.54.50:269][116]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.03-15.55.22:059][884]LogDerivedDataCache: C:/Users/AlumnoT/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.03-15.55.39:482][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.03-15.55.40:113][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-15.55.40:159][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Widgets/WBP_UI] ([2] browsable assets)...
+[2025.10.03-15.55.40:161][985]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Widgets/WBP_UI.WBP_UI]
+[2025.10.03-15.55.40:161][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_UI]
+[2025.10.03-15.55.40:161][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/WBP_UI" FILE="D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_UI.uasset" SILENT=true
+[2025.10.03-15.55.40:174][985]LogSavePackage: Moving output files for package: /Game/Assets/Widgets/WBP_UI
+[2025.10.03-15.55.40:174][985]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_UIB36E0B9A491D4D2874F8239E6E1A7044.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_UI.uasset'
+[2025.10.03-15.55.40:185][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.849 ms (total: 9.83 sec)
+[2025.10.03-15.55.40:240][985]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.03-15.55.40:240][985]LogContentValidation: Enabled validators:
+[2025.10.03-15.55.40:240][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-15.55.40:240][985]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-15.55.40:240][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-15.55.40:240][985]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-15.55.40:240][985]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-15.55.40:240][985]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-15.55.40:240][985]AssetCheck: /Game/Assets/Widgets/WBP_UI Validating asset
+[2025.10.03-15.56.20:031][564]LogEditorTransaction: Undo Wrap Widgets
+[2025.10.03-15.56.20:283][569]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.10.03-15.56.29:030][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8507.760742
+[2025.10.03-15.56.29:164][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-15.56.29:164][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8507.886719, Update Interval: 330.779144
+[2025.10.03-15.57.56:530][820]LogEditorTransaction: Undo Move Anchor
+[2025.10.03-15.58.43:998][559]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-15.59.24:355][660]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.03-16.00.16:241][766]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.10.03-16.00.18:886][ 11]LogEditorTransaction: Undo Remove Widget
+[2025.10.03-16.02.21:290][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.03-16.02.22:296][598]LogSlate: Window 'Save Content' being destroyed
+[2025.10.03-16.02.22:306][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-16.02.22:363][598]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Widgets/WBP_UI] ([2] browsable assets)...
+[2025.10.03-16.02.22:365][598]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Widgets/WBP_UI.WBP_UI]
+[2025.10.03-16.02.22:365][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_UI]
+[2025.10.03-16.02.22:365][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/WBP_UI" FILE="D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_UI.uasset" SILENT=true
+[2025.10.03-16.02.22:378][598]LogSavePackage: Moving output files for package: /Game/Assets/Widgets/WBP_UI
+[2025.10.03-16.02.22:378][598]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_UIBAAACFAC490D737E1DB10DB6BB7D909C.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_UI.uasset'
+[2025.10.03-16.02.22:388][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.931 ms (total: 9.91 sec)
+[2025.10.03-16.02.22:446][598]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.03-16.02.22:446][598]LogContentValidation: Enabled validators:
+[2025.10.03-16.02.22:446][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-16.02.22:446][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-16.02.22:446][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-16.02.22:446][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-16.02.22:446][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-16.02.22:446][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-16.02.22:447][598]AssetCheck: /Game/Assets/Widgets/WBP_UI Validating asset
+[2025.10.03-16.02.38:258][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8877.357422
+[2025.10.03-16.02.38:409][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-16.02.38:409][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8877.500000, Update Interval: 326.801971
+[2025.10.03-16.03.58:560][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.03-16.03.59:610][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.03-16.03.59:660][237]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Widgets/WBP_UI] ([2] browsable assets)...
+[2025.10.03-16.03.59:664][237]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Widgets/WBP_UI.WBP_UI]
+[2025.10.03-16.03.59:664][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_UI]
+[2025.10.03-16.03.59:664][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/WBP_UI" FILE="D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_UI.uasset" SILENT=true
+[2025.10.03-16.03.59:677][237]LogSavePackage: Moving output files for package: /Game/Assets/Widgets/WBP_UI
+[2025.10.03-16.03.59:677][237]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_UIFB5E50B2464861A121479BA4A9DCB621.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_UI.uasset'
+[2025.10.03-16.03.59:689][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.359 ms (total: 9.99 sec)
+[2025.10.03-16.03.59:743][237]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.03-16.03.59:743][237]LogContentValidation: Enabled validators:
+[2025.10.03-16.03.59:743][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.03-16.03.59:743][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.03-16.03.59:743][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.03-16.03.59:743][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.03-16.03.59:743][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.03-16.03.59:743][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.03-16.03.59:744][237]AssetCheck: /Game/Assets/Widgets/WBP_UI Validating asset
+[2025.10.03-16.08.40:245][336]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9240.585938
+[2025.10.03-16.08.40:379][351]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-16.08.40:379][351]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9240.710938, Update Interval: 308.122803
+[2025.10.03-16.13.35:961][235]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.03-16.13.35:969][235]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.03-16.13.35:979][236]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.03-16.13.41:403][885]LogContentBrowser: Attempting asset rename: NewFolder -> UI_Items
+[2025.10.03-16.13.41:403][885]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.03-16.13.49:767][362]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.03-16.13.50:240][362]LogInterchangeEngine: [Pending] Importing
+[2025.10.03-16.13.50:240][362]LogInterchangeEngine: Display: Interchange start importing source [D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/item_1.png]
+[2025.10.03-16.13.50:612][364]LogStreaming: Display: FlushAsyncLoading(638): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.03-16.13.50:952][366]LogTexture: Display: Building textures: /Game/Assets/UI_Items/item_1.item_1 (BGRA8, 890x798 x1x1x1) (Required Memory Estimate: 25.383469 MB), EncodeSpeed: Fast
+[2025.10.03-16.13.51:307][366]LogInterchangeEngine: Display: Interchange import completed [D:/AndreaAlvarez-2B/...arewellMsFlowerThief/item_1.png]
+[2025.10.03-16.13.51:316][366]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.03-16.13.51:316][366]LogInterchangeEngine: [Success] Import Done
+[2025.10.03-16.14.30:701][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9592.796875
+[2025.10.03-16.14.31:711][338]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-16.14.31:711][338]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9593.472656, Update Interval: 340.194702
+[2025.10.03-16.14.42:930][371]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.03-16.14.51:142][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.03-16.14.51:145][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.035
+[2025.10.03-16.14.51:145][395]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Widgets/WBP_UI] ([2] browsable assets)...
+[2025.10.03-16.14.51:152][395]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Widgets/WBP_UI.WBP_UI]
+[2025.10.03-16.14.51:152][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_UI]
+[2025.10.03-16.14.51:165][395]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Widgets/WBP_UI_Auto8
+[2025.10.03-16.14.51:165][395]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_UI_Auto8176E7CD042833947D5A6E8A5B3D46825.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/Widgets/WBP_UI_Auto8.uasset'
+[2025.10.03-16.14.51:167][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/UI_Items/item_1] ([1] browsable assets)...
+[2025.10.03-16.14.51:171][395]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/UI_Items/item_1.item_1]
+[2025.10.03-16.14.51:171][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI_Items/item_1]
+[2025.10.03-16.14.51:182][395]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/UI_Items/item_1_Auto8
+[2025.10.03-16.14.51:182][395]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/item_1_Auto868A23FCC4C882FAB65C8B58A2DC6EB8A.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/UI_Items/item_1_Auto8.uasset'
+[2025.10.03-16.14.51:182][395]LogFileHelpers: Auto-saving content packages took 0.037
+[2025.10.03-16.15.31:009][513]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.03-16.16.34:455][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.03-16.16.34:612][938]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.10.03-16.16.34:624][938]LogSlate: Took 0.010688 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.10.03-16.16.35:636][938]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.03-16.16.35:744][938]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/UI_Items/item_1.item_1
+	Asset Type: Texture2D
+[2025.10.03-16.16.36:104][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.03-16.16.36:131][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.03-16.16.36:155][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.03-16.16.38:737][ 98]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.03-16.16.38:755][ 98]LogInterchangeEngine: [Pending] Importing
+[2025.10.03-16.16.38:755][ 98]LogInterchangeEngine: Display: Interchange start importing source [D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/item_1.png]
+[2025.10.03-16.16.39:453][100]LogStreaming: Display: FlushAsyncLoading(640): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.03-16.16.39:524][101]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.10.03-16.16.39:755][102]LogTexture: Display: Building textures: /Game/Assets/UI_Items/item_1.item_1 (TFO_AutoDXT, 2480x3508 x1x1x1) (Required Memory Estimate: 598.370573 MB), EncodeSpeed: Fast
+[2025.10.03-16.16.40:101][102]LogInterchangeEngine: Display: Interchange import completed [D:/AndreaAlvarez-2B/...arewellMsFlowerThief/item_1.png]
+[2025.10.03-16.16.40:109][102]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.03-16.16.40:109][102]LogInterchangeEngine: [Success] Import Done
+[2025.10.03-16.16.48:979][894]LogEditorTransaction: Undo Move Anchor
+[2025.10.03-16.18.42:073][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.03-16.18.43:261][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.03-16.18.43:503][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.03-16.18.43:705][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.03-16.21.06:018][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9986.827148
+[2025.10.03-16.21.07:042][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-16.21.07:042][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9987.509766, Update Interval: 326.023743
+[2025.10.03-16.24.52:096][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.03-16.24.52:099][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.061
+[2025.10.03-16.24.52:099][236]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Widgets/WBP_UI] ([2] browsable assets)...
+[2025.10.03-16.24.52:103][236]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Assets/Widgets/WBP_UI.WBP_UI]
+[2025.10.03-16.24.52:103][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_UI]
+[2025.10.03-16.24.52:116][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Widgets/WBP_UI_Auto9
+[2025.10.03-16.24.52:116][236]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_UI_Auto90DEE5CE74A25298CE3BE249CD4780F4A.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/Widgets/WBP_UI_Auto9.uasset'
+[2025.10.03-16.24.52:117][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/UI_Items/item_1] ([1] browsable assets)...
+[2025.10.03-16.24.52:122][236]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/UI_Items/item_1.item_1]
+[2025.10.03-16.24.52:122][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UI_Items/item_1]
+[2025.10.03-16.24.52:529][236]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/UI_Items/item_1_Auto9
+[2025.10.03-16.24.52:529][236]LogSavePackage: Moving 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/item_1_Auto9E56B969545DD9FFA2FB0C7867A13BC98.tmp' to 'D:/AndreaAlvarez-2B/Proyecto_FarewellMsFlowerThief/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/UI_Items/item_1_Auto9.uasset'
+[2025.10.03-16.24.52:529][236]LogFileHelpers: Auto-saving content packages took 0.431
+[2025.10.03-16.27.13:187][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10354.010742
+[2025.10.03-16.27.14:203][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-16.27.14:203][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10354.693359, Update Interval: 313.068634
+[2025.10.03-16.33.21:828][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10722.621094
+[2025.10.03-16.33.22:850][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-16.33.22:850][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10723.301758, Update Interval: 327.052826
+[2025.10.03-16.39.49:212][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11110.000977
+[2025.10.03-16.39.50:224][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-16.39.50:224][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11110.670898, Update Interval: 301.688293
+[2025.10.03-16.45.33:930][884]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11454.704102
+[2025.10.03-16.45.34:957][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-16.45.34:957][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11455.388672, Update Interval: 335.514404
