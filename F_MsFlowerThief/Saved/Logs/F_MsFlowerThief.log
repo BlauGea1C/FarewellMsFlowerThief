@@ -1502,3 +1502,581 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.19-18.05.53:138][752]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.19-18.05.53:138][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.19-18.05.53:138][752]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.19-18.06.37:634][805]Cmd: TRANSACTION UNDO
+[2025.10.19-18.06.37:634][805]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.06.38:313][831]Cmd: DUPLICATE
+[2025.10.19-18.06.38:313][831]Cmd: ACTOR DUPLICATE
+[2025.10.19-18.06.47:891][890]Cmd: TRANSACTION UNDO
+[2025.10.19-18.06.47:891][890]LogEditorTransaction: Undo Scale Elements
+[2025.10.19-18.07.06:681][890]Cmd: DUPLICATE
+[2025.10.19-18.07.06:681][890]Cmd: ACTOR DUPLICATE
+[2025.10.19-18.07.08:917][148]Cmd: DUPLICATE
+[2025.10.19-18.07.08:917][148]Cmd: ACTOR DUPLICATE
+[2025.10.19-18.07.12:106][515]Cmd: DUPLICATE
+[2025.10.19-18.07.12:106][515]Cmd: ACTOR DUPLICATE
+[2025.10.19-18.07.14:520][794]Cmd: DUPLICATE
+[2025.10.19-18.07.14:520][794]Cmd: ACTOR DUPLICATE
+[2025.10.19-18.07.29:262][385]Cmd: TRANSACTION UNDO
+[2025.10.19-18.07.29:262][385]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.07.36:364][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 344.931763
+[2025.10.19-18.07.36:522][111]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-18.07.36:522][111]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 345.083618, Update Interval: 338.145691
+[2025.10.19-18.07.38:838][384]Cmd: TRANSACTION UNDO
+[2025.10.19-18.07.38:838][384]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.07.53:996][ 39]Cmd: TRANSACTION UNDO
+[2025.10.19-18.07.53:996][ 39]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.08.11:908][895]Cmd: TRANSACTION UNDO
+[2025.10.19-18.08.11:908][895]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.08.38:069][825]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.19-18.08.39:054][924]LogStreaming: Display: FlushAsyncLoading(613): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.19-18.08.39:107][924]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.19-18.08.39:288][931]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales_C
+[2025.10.19-18.08.39:288][931]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales_C
+[2025.10.19-18.08.39:290][931]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales as actor: BP_Platform_Temporales_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Temporales_C_0
+[2025.10.19-18.08.39:292][931]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales as actor: BP_Platform_Temporales_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Temporales_C_0
+[2025.10.19-18.08.39:295][931]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.19-18.08.40:084][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.19-18.08.40:098][  6]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2025.10.19-18.08.40:101][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales_C
+[2025.10.19-18.08.40:101][  6]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales_C
+[2025.10.19-18.08.40:105][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales as actor: BP_Platform_Temporales_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Temporales_C_UAID_50EBF6951953FF9902_1181559948
+[2025.10.19-18.08.40:106][  6]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales as actor: BP_Platform_Temporales_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Temporales_C_UAID_50EBF6951953FF9902_1181559948
+[2025.10.19-18.08.42:543][245]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.19-18.08.42:543][245]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.19-18.08.42:544][245]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_0
+[2025.10.19-18.08.42:545][245]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_0
+[2025.10.19-18.08.43:306][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.19-18.08.43:308][314]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.19-18.08.43:312][314]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.19-18.08.43:312][314]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.19-18.08.43:315][314]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_UAID_50EBF6951953FF9902_1184770949
+[2025.10.19-18.08.43:316][314]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_UAID_50EBF6951953FF9902_1184770949
+[2025.10.19-18.08.44:332][404]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.19-18.08.44:333][404]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.19-18.08.44:334][404]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_1
+[2025.10.19-18.08.44:335][404]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_1
+[2025.10.19-18.08.45:686][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.19-18.08.45:688][546]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.19-18.08.45:697][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.19-18.08.45:697][546]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.19-18.08.45:700][546]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_UAID_50EBF6951953FF9902_1187155950
+[2025.10.19-18.08.45:701][546]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_UAID_50EBF6951953FF9902_1187155950
+[2025.10.19-18.08.49:181][911]LogStreaming: Display: FlushAsyncLoading(614): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.19-18.08.49:243][911]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.19-18.08.49:301][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster_C
+[2025.10.19-18.08.49:301][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster_C
+[2025.10.19-18.08.49:302][912]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster as actor: BP_Tall_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Tall_Mushroom_JumpBooster_C_0
+[2025.10.19-18.08.49:303][912]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster as actor: BP_Tall_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Tall_Mushroom_JumpBooster_C_0
+[2025.10.19-18.08.49:311][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.19-18.08.51:759][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.19-18.08.51:771][161]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.10.19-18.08.51:775][161]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster_C
+[2025.10.19-18.08.51:775][161]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster_C
+[2025.10.19-18.08.51:778][161]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster as actor: BP_Tall_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Tall_Mushroom_JumpBooster_C_UAID_50EBF6951953FF9902_1193233951
+[2025.10.19-18.08.51:780][161]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster as actor: BP_Tall_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Tall_Mushroom_JumpBooster_C_UAID_50EBF6951953FF9902_1193233951
+[2025.10.19-18.08.52:547][232]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.19-18.08.52:608][232]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.19-18.08.52:656][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster_C
+[2025.10.19-18.08.52:656][233]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster_C
+[2025.10.19-18.08.52:657][233]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster as actor: BP_Small_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Small_Mushroom_JumpBooster_C_0
+[2025.10.19-18.08.52:658][233]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster as actor: BP_Small_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Small_Mushroom_JumpBooster_C_0
+[2025.10.19-18.08.53:895][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.19-18.08.53:906][354]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.10.19-18.08.53:910][354]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster_C
+[2025.10.19-18.08.53:910][354]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster_C
+[2025.10.19-18.08.53:913][354]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster as actor: BP_Small_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Small_Mushroom_JumpBooster_C_UAID_50EBF6951953FF9902_1195368952
+[2025.10.19-18.08.53:914][354]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster as actor: BP_Small_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Small_Mushroom_JumpBooster_C_UAID_50EBF6951953FF9902_1195368952
+[2025.10.19-18.08.54:370][389]LogStreaming: Display: FlushAsyncLoading(616): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.19-18.08.54:427][389]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.19-18.08.54:467][389]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster_C
+[2025.10.19-18.08.54:467][389]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster_C
+[2025.10.19-18.08.54:469][389]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster as actor: BP_Medium_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Medium_Mushroom_JumpBooster_C_0
+[2025.10.19-18.08.54:470][389]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster as actor: BP_Medium_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Medium_Mushroom_JumpBooster_C_0
+[2025.10.19-18.08.56:234][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.19-18.08.56:244][576]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.10.19-18.08.56:248][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster_C
+[2025.10.19-18.08.56:248][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster_C
+[2025.10.19-18.08.56:251][576]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster as actor: BP_Medium_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Medium_Mushroom_JumpBooster_C_UAID_50EBF6951953FF9902_1197706953
+[2025.10.19-18.08.56:253][576]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster as actor: BP_Medium_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Medium_Mushroom_JumpBooster_C_UAID_50EBF6951953FF9902_1197706953
+[2025.10.19-18.09.33:835][781]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.19-18.09.59:938][725]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.19-18.10.20:210][989]Cmd: DUPLICATE
+[2025.10.19-18.10.20:210][989]Cmd: ACTOR DUPLICATE
+[2025.10.19-18.10.35:669][730]Cmd: TRANSACTION UNDO
+[2025.10.19-18.10.35:669][730]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.10.44:920][725]Cmd: TRANSACTION UNDO
+[2025.10.19-18.10.44:920][725]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.10.46:704][883]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.19-18.11.09:786][422]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.19-18.12.05:984][600]Cmd: DUPLICATE
+[2025.10.19-18.12.05:985][600]Cmd: ACTOR DUPLICATE
+[2025.10.19-18.12.06:005][600]LogClass: Warning: Short type name "BP_Platform_Temporales_C_UAID_50EBF6951953FF9902_1181559948" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffe99f1ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a21c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a21dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1a1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1c46c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe99ef26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a2930db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1a1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1c46c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.10.19-18.12.06:008][600]LogClass: Warning: Short type name "BP_Platform_Temporales_C_UAID_50EBF6951953FF9902_1181559948" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffe99f1ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a21c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a21dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1a1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1c46c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe99ef26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a2930db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1a1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1c46c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.10.19-18.12.10:685][ 61]Cmd: DUPLICATE
+[2025.10.19-18.12.10:685][ 61]Cmd: ACTOR DUPLICATE
+[2025.10.19-18.12.10:694][ 61]LogClass: Warning: Short type name "BP_Platform_Temporales_C_UAID_50EBF6951953FF9902_1387443956" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffe99f1ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a21c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a21dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1a1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1c46c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe99ef26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a2930db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1a1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1c46c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.10.19-18.12.10:698][ 61]LogClass: Warning: Short type name "BP_Platform_Temporales_C_UAID_50EBF6951953FF9902_1387443956" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffe99f1ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a21c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a21dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1a1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1c46c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe99ef26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a2930db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1a1d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffe9a1c46c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.10.19-18.12.25:072][548]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.19-18.12.51:901][120]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.19-18.12.53:488][306]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.19-18.12.53:952][360]Cmd: TRANSACTION UNDO
+[2025.10.19-18.12.53:952][360]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.13.11:683][291]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.10.19-18.13.11:690][291]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.19-18.13.11:690][291]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.19-18.13.11:692][291]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.776 ms (total: 3.558 ms)
+[2025.10.19-18.13.11:692][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.19-18.13.11:692][291]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.19-18.13.11:699][291]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.19-18.13.11:702][291]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.475 ms (total: 5.117 ms)
+[2025.10.19-18.13.11:702][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008822s)
+[2025.10.19-18.13.11:702][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008847s)
+[2025.10.19-18.13.11:737][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.19-18.13.11:742][291]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.19-18.13.11:743][291]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.19-18.13.11:743][291]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.19-18.13.11:743][291]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.19-18.13.11:743][291]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.19-18.13.11:745][291]LogWorldPartition: Display: WorldPartition initialize took 1.866 ms (total: 68.831 ms)
+[2025.10.19-18.13.11:745][291]LogPlayLevel: PIE: World Init took: (0.003454s)
+[2025.10.19-18.13.11:746][291]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.19-18.13.11:746][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.19-18.13.11:746][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.19-18.13.11:746][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.19-18.13.11:746][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.19-18.13.11:746][291]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.19-18.13.11:746][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.19-18.13.11:746][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.19-18.13.11:746][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.19-18.13.11:746][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.19-18.13.11:746][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.19-18.13.11:746][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.19-18.13.11:748][291]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.19-18.13.11:771][291]LogAudioMixer: Display: Using Audio Hardware Device MSI MP242C (NVIDIA High Definition Audio)
+[2025.10.19-18.13.11:771][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.19-18.13.11:771][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.19-18.13.11:771][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.19-18.13.11:772][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.19-18.13.11:772][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.19-18.13.11:774][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.19-18.13.11:774][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.19-18.13.11:774][291]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.19-18.13.11:774][291]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2025.10.19-18.13.11:774][291]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.19-18.13.11:837][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.13.11:837][291]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.19-18.13.11:845][291]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_D4939030FFC6999902_1968106991)
+[2025.10.19-18.13.11:845][291]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.19-20.13.11
+[2025.10.19-18.13.11:846][291]LogWorld: Bringing up level for play took: 0.006998
+[2025.10.19-18.13.11:849][291]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.10.19-18.13.11:861][291]PIE: Server logged in
+[2025.10.19-18.13.11:866][291]PIE: Play in editor total start time 0,176 seconds.
+[2025.10.19-18.13.13:890][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.13.13:890][476]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.19-18.13.13:890][476]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.19-18.13.13:891][476]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.19-18.13.13:897][476]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.13.13:898][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.13.13:898][476]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.19-18.13.13:899][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.19-18.13.13:902][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.13.13:925][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.19-18.13.13:925][476]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.19-18.13.13:926][476]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.19-18.13.13:933][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.19-18.13.14:002][477]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.10.19-18.13.18:011][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 686.578735
+[2025.10.19-18.13.18:154][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-18.13.18:154][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 686.713196, Update Interval: 341.401398
+[2025.10.19-18.13.24:453][688]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.19-18.13.24:794][727]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.19-18.13.28:246][131]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.19-18.13.29:426][270]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.19-18.13.30:205][361]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.19-18.13.31:177][474]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.10.19-18.13.31:184][474]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.19-18.13.31:184][474]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.19-18.13.31:186][474]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.664 ms (total: 5.223 ms)
+[2025.10.19-18.13.31:186][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.19-18.13.31:186][474]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.19-18.13.31:193][474]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.19-18.13.31:195][474]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.480 ms (total: 6.597 ms)
+[2025.10.19-18.13.31:195][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008607s)
+[2025.10.19-18.13.31:195][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008633s)
+[2025.10.19-18.13.31:215][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.19-18.13.31:217][474]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.19-18.13.31:218][474]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.19-18.13.31:218][474]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.19-18.13.31:218][474]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.19-18.13.31:218][474]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.19-18.13.31:219][474]LogWorldPartition: Display: WorldPartition initialize took 1.836 ms (total: 70.667 ms)
+[2025.10.19-18.13.31:219][474]LogPlayLevel: PIE: World Init took: (0.003275s)
+[2025.10.19-18.13.31:220][474]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.19-18.13.31:220][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.19-18.13.31:220][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.19-18.13.31:220][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.19-18.13.31:220][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.19-18.13.31:220][474]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.19-18.13.31:220][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.19-18.13.31:220][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.19-18.13.31:220][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.19-18.13.31:220][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.19-18.13.31:220][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.19-18.13.31:220][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.19-18.13.31:222][474]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.19-18.13.31:241][474]LogAudioMixer: Display: Using Audio Hardware Device MSI MP242C (NVIDIA High Definition Audio)
+[2025.10.19-18.13.31:241][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.19-18.13.31:241][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.19-18.13.31:241][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.19-18.13.31:242][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.19-18.13.31:242][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.19-18.13.31:244][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.19-18.13.31:244][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.19-18.13.31:244][474]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.19-18.13.31:244][474]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2025.10.19-18.13.31:244][474]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.19-18.13.31:301][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.13.31:301][474]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.19-18.13.31:307][474]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_D4939030FFC6999902_1968106991)
+[2025.10.19-18.13.31:308][474]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.19-20.13.31
+[2025.10.19-18.13.31:309][474]LogWorld: Bringing up level for play took: 0.006117
+[2025.10.19-18.13.31:312][474]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.10.19-18.13.31:322][474]PIE: Server logged in
+[2025.10.19-18.13.31:328][474]PIE: Play in editor total start time 0,144 seconds.
+[2025.10.19-18.14.15:708][717]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=271.64 Y=122.54 Z=0.00 Location: X=849.23 Y=-2572.75 Z=92.15 Normal: X=-0.35 Y=-0.94 Z=0.00 PenetrationDepth:0.095 Actor:StaticMeshActor_UAID_D4939030FFC6F09902_1085087305 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.10.19-18.14.17:668][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.17:668][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.17:678][901]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.17:688][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.17:688][902]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.17:700][903]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.17:710][904]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.17:710][904]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.17:721][905]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.17:731][906]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.17:731][906]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.17:741][907]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.17:752][908]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.17:752][908]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.17:762][909]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.18:524][983]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.18:524][983]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.18:534][984]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.18:544][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.18:544][985]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.18:555][986]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.18:566][987]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.18:566][987]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.18:575][988]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.18:588][989]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.18:588][989]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.18:597][990]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.18:608][991]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.18:608][991]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.18:619][992]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.18:630][993]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.18:630][993]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.31:905][275]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.31:916][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.31:916][276]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.31:926][277]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.31:939][278]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.31:939][278]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.31:950][279]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.31:960][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.31:960][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.31:972][281]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.31:982][282]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.31:982][282]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.32:507][332]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.32:517][333]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.32:517][333]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.32:527][334]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.32:539][335]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.32:539][335]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.32:551][336]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.32:562][337]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.32:562][337]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.32:572][338]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.32:583][339]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.14.32:583][339]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] PLAYER 2
+[2025.10.19-18.14.32:594][340]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.19-18.14.34:500][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.14.34:500][522]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.19-18.14.34:500][522]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.19-18.14.34:501][522]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.19-18.14.34:506][522]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.14.34:507][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.14.34:507][522]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.19-18.14.34:508][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.19-18.14.34:513][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.14.34:538][522]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.19-18.14.34:538][522]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.19-18.14.34:540][522]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.19-18.14.34:547][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.19-18.14.34:603][523]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.10.19-18.14.46:055][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-18.14.46:120][441]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_Companion1] ([2] browsable assets)...
+[2025.10.19-18.14.46:153][441]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_Companion1.BP_Companion1]
+[2025.10.19-18.14.46:153][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_Companion1]
+[2025.10.19-18.14.46:168][441]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_Companion1
+[2025.10.19-18.14.46:168][441]LogSavePackage: Moving '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Companion15468AA0141F805CBD8DA62801AB4ACC5.tmp' to '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset'
+[2025.10.19-18.14.46:174][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.090 ms (total: 443.836 ms)
+[2025.10.19-18.14.46:214][441]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.19-18.14.46:214][441]LogContentValidation: Enabled validators:
+[2025.10.19-18.14.46:214][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-18.14.46:214][441]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-18.14.46:214][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-18.14.46:214][441]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-18.14.46:214][441]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-18.14.46:214][441]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-18.14.46:214][441]AssetCheck: /Game/Assets/Companion/BP_Companion1 Validating asset
+[2025.10.19-18.15.01:332][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.19-18.15.02:763][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.19-18.15.06:193][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-18.15.06:230][986]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.19-18.15.06:262][986]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.19-18.15.06:262][986]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.19-18.15.06:283][986]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.19-18.15.06:283][986]LogSavePackage: Moving '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacter25BE96EE4A19048B7E5A9FAF8C55AD99.tmp' to '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.19-18.15.06:290][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.115 ms (total: 541.952 ms)
+[2025.10.19-18.15.06:329][986]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.19-18.15.06:329][986]LogContentValidation: Enabled validators:
+[2025.10.19-18.15.06:329][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-18.15.06:329][986]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-18.15.06:329][986]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-18.15.06:329][986]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-18.15.06:329][986]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-18.15.06:329][986]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-18.15.06:329][986]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.19-18.15.07:261][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.19-18.15.08:004][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-18.15.08:047][ 98]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_Companion1] ([2] browsable assets)...
+[2025.10.19-18.15.08:080][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_Companion1.BP_Companion1]
+[2025.10.19-18.15.08:081][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_Companion1]
+[2025.10.19-18.15.08:095][ 98]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_Companion1
+[2025.10.19-18.15.08:096][ 98]LogSavePackage: Moving '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Companion1ACBA02D547A393345BAAC0B7861CF936.tmp' to '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset'
+[2025.10.19-18.15.08:102][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.812 ms (total: 639.764 ms)
+[2025.10.19-18.15.08:171][ 98]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.19-18.15.08:171][ 98]LogContentValidation: Enabled validators:
+[2025.10.19-18.15.08:171][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-18.15.08:171][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-18.15.08:171][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-18.15.08:171][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-18.15.08:171][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-18.15.08:171][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-18.15.08:171][ 98]AssetCheck: /Game/Assets/Companion/BP_Companion1 Validating asset
+[2025.10.19-18.15.10:398][314]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.10.19-18.15.10:405][314]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.19-18.15.10:405][314]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.19-18.15.10:407][314]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.702 ms (total: 6.925 ms)
+[2025.10.19-18.15.10:407][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.19-18.15.10:407][314]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.19-18.15.10:414][314]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.19-18.15.10:416][314]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.465 ms (total: 8.062 ms)
+[2025.10.19-18.15.10:416][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008559s)
+[2025.10.19-18.15.10:416][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.008581s)
+[2025.10.19-18.15.10:438][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.19-18.15.10:444][314]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.19-18.15.10:445][314]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.19-18.15.10:445][314]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.19-18.15.10:445][314]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.19-18.15.10:445][314]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.19-18.15.10:447][314]LogWorldPartition: Display: WorldPartition initialize took 1.859 ms (total: 72.527 ms)
+[2025.10.19-18.15.10:447][314]LogPlayLevel: PIE: World Init took: (0.003287s)
+[2025.10.19-18.15.10:447][314]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.19-18.15.10:447][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.19-18.15.10:447][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.19-18.15.10:447][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.19-18.15.10:447][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.19-18.15.10:448][314]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.19-18.15.10:448][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.19-18.15.10:448][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.19-18.15.10:448][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.19-18.15.10:448][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.19-18.15.10:448][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.19-18.15.10:448][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.19-18.15.10:449][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.19-18.15.10:469][314]LogAudioMixer: Display: Using Audio Hardware Device MSI MP242C (NVIDIA High Definition Audio)
+[2025.10.19-18.15.10:469][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.19-18.15.10:469][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.19-18.15.10:469][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.19-18.15.10:469][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.19-18.15.10:469][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.19-18.15.10:471][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.19-18.15.10:471][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.19-18.15.10:471][314]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.19-18.15.10:471][314]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2025.10.19-18.15.10:472][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.19-18.15.10:535][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.15.10:535][314]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.19-18.15.10:540][314]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_D4939030FFC6999902_1968106991)
+[2025.10.19-18.15.10:541][314]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.19-20.15.10
+[2025.10.19-18.15.10:541][314]LogWorld: Bringing up level for play took: 0.006729
+[2025.10.19-18.15.10:544][314]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.10.19-18.15.10:554][314]PIE: Server logged in
+[2025.10.19-18.15.10:558][314]PIE: Play in editor total start time 0,154 seconds.
+[2025.10.19-18.15.18:967][216]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.18:986][218]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.19:004][220]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.19:022][222]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.19:040][224]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.19:060][226]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.19:078][228]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.19:096][230]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.19:115][232]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.19:133][234]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.21:453][487]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.21:472][489]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.21:492][491]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.21:510][493]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.21:529][495]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.21:547][497]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.21:565][499]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.22:938][651]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.22:956][653]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.22:974][655]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.22:992][657]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:011][659]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:029][661]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:048][663]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:436][705]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:455][707]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:473][709]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:492][711]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:510][713]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:528][715]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:547][717]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.23:565][719]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:165][783]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:184][785]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:203][787]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:221][789]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:240][791]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:258][793]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:276][795]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:296][797]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:314][799]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:333][801]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:765][848]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:784][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:802][852]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:822][854]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:840][856]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:859][858]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:879][860]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:898][862]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:916][864]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:935][866]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:954][868]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:973][870]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.24:991][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.25:010][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] B
+[2025.10.19-18.15.26:501][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.15.26:501][ 33]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.19-18.15.26:501][ 33]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.19-18.15.26:502][ 33]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.19-18.15.26:508][ 33]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.15.26:509][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.15.26:509][ 33]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.19-18.15.26:510][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.19-18.15.26:514][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.15.26:540][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.19-18.15.26:540][ 33]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.19-18.15.26:540][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.10.19-18.15.26:542][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.10.19-18.15.26:547][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.10.19-18.15.26:598][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.10.19-18.15.46:427][634]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-18.15.46:487][634]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Companion/BP_Companion1] ([2] browsable assets)...
+[2025.10.19-18.15.46:487][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_Companion1]
+[2025.10.19-18.15.46:501][634]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_Companion1
+[2025.10.19-18.15.46:501][634]LogSavePackage: Moving '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Companion17D08E86C4E98DCE3820E8EAEB8AAA976.tmp' to '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset'
+[2025.10.19-18.15.46:508][634]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.983 ms (total: 719.748 ms)
+[2025.10.19-18.15.46:570][634]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.19-18.15.46:570][634]LogContentValidation: Enabled validators:
+[2025.10.19-18.15.46:570][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-18.15.46:570][634]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-18.15.46:570][634]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-18.15.46:571][634]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-18.15.46:571][634]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-18.15.46:571][634]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-18.15.46:571][634]AssetCheck: /Game/Assets/Companion/BP_Companion1 Validating asset
+[2025.10.19-18.15.47:516][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-18.15.47:567][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.19-18.15.47:599][706]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.19-18.15.47:599][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.19-18.15.47:620][706]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.19-18.15.47:620][706]LogSavePackage: Moving '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacter6AF0018E4FF1A041085FDC8671BF0AD9.tmp' to '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.19-18.15.47:626][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.333 ms (total: 829.081 ms)
+[2025.10.19-18.15.47:680][706]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.19-18.15.47:680][706]LogContentValidation: Enabled validators:
+[2025.10.19-18.15.47:680][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-18.15.47:680][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-18.15.47:680][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-18.15.47:680][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-18.15.47:680][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-18.15.47:680][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-18.15.47:680][706]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.19-18.15.47:896][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.19-18.15.48:904][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.19-18.15.49:209][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-18.15.49:277][788]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_Companion1] ([2] browsable assets)...
+[2025.10.19-18.15.49:307][788]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_Companion1.BP_Companion1]
+[2025.10.19-18.15.49:307][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_Companion1]
+[2025.10.19-18.15.49:322][788]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_Companion1
+[2025.10.19-18.15.49:322][788]LogSavePackage: Moving '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Companion14CC45F19495BF50DBE8A26A0F071E553.tmp' to '../../../../../Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset'
+[2025.10.19-18.15.49:328][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.267 ms (total: 947.348 ms)
+[2025.10.19-18.15.49:393][788]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.19-18.15.49:393][788]LogContentValidation: Enabled validators:
+[2025.10.19-18.15.49:393][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-18.15.49:393][788]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-18.15.49:393][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-18.15.49:393][788]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-18.15.49:393][788]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-18.15.49:393][788]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-18.15.49:393][788]AssetCheck: /Game/Assets/Companion/BP_Companion1 Validating asset
