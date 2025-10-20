@@ -2261,3 +2261,296 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.20-16.11.35:895][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2025.10.20-16.11.35:955][943]LogPlayLevel: Display: Destroying online subsystem :Context_22
 [2025.10.20-16.12.26:910][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 697.981750
+[2025.10.20-16.12.31:916][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.20-16.12.31:916][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 702.643982, Update Interval: 343.441284
+[2025.10.20-16.12.43:671][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.20-16.12.44:088][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.20-16.12.44:131][364]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.20-16.12.44:163][364]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.20-16.12.44:163][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.20-16.12.44:202][364]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.20-16.12.44:203][364]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacter41ADD7A34CB1ACD26AAFCB91874EB109.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.20-16.12.44:213][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.952 ms (total: 1.40 sec)
+[2025.10.20-16.12.44:263][364]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.20-16.12.44:264][364]LogContentValidation: Enabled validators:
+[2025.10.20-16.12.44:264][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.20-16.12.44:264][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.20-16.12.44:264][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.20-16.12.44:264][364]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.20-16.12.44:264][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.20-16.12.44:264][364]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.20-16.12.44:264][364]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.20-16.12.45:298][408]LogSlate: Window 'SK_Mannequin' being destroyed
+[2025.10.20-16.12.45:305][408]LogSlate: Window 'SK_Mannequin' being destroyed
+[2025.10.20-16.12.45:314][408]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.20-16.12.45:314][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.20-16.12.45:383][408]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.20-16.12.45:383][408]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.20-16.12.45:383][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.20-16.12.45:513][408]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.20-16.12.45:513][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.20-16.12.45:566][408]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.20-16.12.45:566][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.20-16.12.45:613][408]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.20-16.12.45:613][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.20-16.12.45:652][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.20-16.13.04:529][402]Cmd: EDIT CUT
+[2025.10.20-16.13.04:533][402]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.20-16.13.04:559][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-16.13.04:583][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.20-16.13.04:586][402]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2025.10.20-16.13.05:729][535]Cmd: TRANSACTION UNDO
+[2025.10.20-16.13.05:729][535]LogEditorTransaction: Undo Cut
+[2025.10.20-16.13.06:057][538]Cmd: TRANSACTION UNDO
+[2025.10.20-16.13.06:057][538]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.13.10:107][975]Cmd: TRANSACTION UNDO
+[2025.10.20-16.13.10:107][975]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.13.10:920][ 17]Cmd: DUPLICATE
+[2025.10.20-16.13.10:920][ 17]Cmd: ACTOR DUPLICATE
+[2025.10.20-16.13.17:384][734]Cmd: DUPLICATE
+[2025.10.20-16.13.17:384][734]Cmd: ACTOR DUPLICATE
+[2025.10.20-16.13.19:600][977]Cmd: DUPLICATE
+[2025.10.20-16.13.19:600][977]Cmd: ACTOR DUPLICATE
+[2025.10.20-16.13.42:655][348]Cmd: EDIT CUT
+[2025.10.20-16.13.42:658][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-16.13.42:659][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-16.13.42:660][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-16.13.42:661][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-16.13.42:662][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.20-16.13.42:688][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.20-16.13.42:694][348]LogEditorActor: Deleted 5 Actors (0.037 secs)
+[2025.10.20-16.13.44:197][523]Cmd: TRANSACTION UNDO
+[2025.10.20-16.13.44:197][523]LogEditorTransaction: Undo Cut
+[2025.10.20-16.13.45:610][628]Cmd: TRANSACTION UNDO
+[2025.10.20-16.13.45:610][628]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.14.19:492][441]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.20-16.14.24:719][ 24]Cmd: TRANSACTION UNDO
+[2025.10.20-16.14.24:719][ 24]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.14.46:459][211]Cmd: TRANSACTION UNDO
+[2025.10.20-16.14.46:459][211]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.14.59:610][389]Cmd: TRANSACTION UNDO
+[2025.10.20-16.14.59:610][389]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.15.08:640][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.20-16.15.16:543][752]Cmd: TRANSACTION UNDO
+[2025.10.20-16.15.16:543][752]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.15.29:291][ 16]Cmd: EDIT COPY
+[2025.10.20-16.15.32:384][363]Cmd: TRANSACTION UNDO
+[2025.10.20-16.15.32:384][363]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.15.33:737][467]Cmd: DUPLICATE
+[2025.10.20-16.15.33:737][467]Cmd: ACTOR DUPLICATE
+[2025.10.20-16.15.50:458][175]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.20-16.15.50:537][175]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.20-16.15.50:633][177]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster_C
+[2025.10.20-16.15.50:634][177]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster_C
+[2025.10.20-16.15.50:635][177]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster as actor: BP_Medium_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Medium_Mushroom_JumpBooster_C_0
+[2025.10.20-16.15.50:637][177]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster as actor: BP_Medium_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Medium_Mushroom_JumpBooster_C_0
+[2025.10.20-16.15.50:642][177]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.20-16.15.52:000][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.20-16.15.52:026][288]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2025.10.20-16.15.52:031][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster_C
+[2025.10.20-16.15.52:031][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster_C
+[2025.10.20-16.15.52:036][288]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster as actor: BP_Medium_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Medium_Mushroom_JumpBooster_C_UAID_00D8615CF3E8499A02_1356594972
+[2025.10.20-16.15.52:038][288]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Medium_Mushroom_JumpBooster.BP_Medium_Mushroom_JumpBooster as actor: BP_Medium_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Medium_Mushroom_JumpBooster_C_UAID_00D8615CF3E8499A02_1356594972
+[2025.10.20-16.15.52:584][324]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.20-16.15.52:636][324]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.20-16.15.52:692][325]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster_C
+[2025.10.20-16.15.52:692][325]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster_C
+[2025.10.20-16.15.52:694][325]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster as actor: BP_Small_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Small_Mushroom_JumpBooster_C_0
+[2025.10.20-16.15.52:696][325]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster as actor: BP_Small_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Small_Mushroom_JumpBooster_C_0
+[2025.10.20-16.15.53:637][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.20-16.15.53:652][400]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2025.10.20-16.15.53:656][400]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster_C
+[2025.10.20-16.15.53:656][400]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster_C
+[2025.10.20-16.15.53:660][400]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster as actor: BP_Small_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Small_Mushroom_JumpBooster_C_UAID_00D8615CF3E8499A02_1358219973
+[2025.10.20-16.15.53:662][400]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Small_Mushroom_JumpBooster.BP_Small_Mushroom_JumpBooster as actor: BP_Small_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Small_Mushroom_JumpBooster_C_UAID_00D8615CF3E8499A02_1358219973
+[2025.10.20-16.15.54:138][430]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.20-16.15.54:186][430]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.20-16.15.54:286][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster_C
+[2025.10.20-16.15.54:286][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster_C
+[2025.10.20-16.15.54:288][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster as actor: BP_Tall_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Tall_Mushroom_JumpBooster_C_0
+[2025.10.20-16.15.54:290][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster as actor: BP_Tall_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Tall_Mushroom_JumpBooster_C_0
+[2025.10.20-16.15.55:211][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.20-16.15.55:226][516]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.10.20-16.15.55:232][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster_C
+[2025.10.20-16.15.55:232][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster_C
+[2025.10.20-16.15.55:236][516]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster as actor: BP_Tall_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Tall_Mushroom_JumpBooster_C_UAID_00D8615CF3E8499A02_1359795974
+[2025.10.20-16.15.55:238][516]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Mushrooms_JumpBooster/BP_Tall_Mushroom_JumpBooster.BP_Tall_Mushroom_JumpBooster as actor: BP_Tall_Mushroom_JumpBooster_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Tall_Mushroom_JumpBooster_C_UAID_00D8615CF3E8499A02_1359795974
+[2025.10.20-16.15.56:639][648]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.20-16.15.57:596][726]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.20-16.15.57:668][726]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.20-16.15.57:733][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales_C
+[2025.10.20-16.15.57:733][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales_C
+[2025.10.20-16.15.57:736][727]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales as actor: BP_Platform_Temporales_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Temporales_C_0
+[2025.10.20-16.15.57:738][727]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales as actor: BP_Platform_Temporales_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Temporales_C_0
+[2025.10.20-16.15.58:553][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.20-16.15.58:570][780]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2025.10.20-16.15.58:575][780]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales_C
+[2025.10.20-16.15.58:575][780]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales_C
+[2025.10.20-16.15.58:579][780]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales as actor: BP_Platform_Temporales_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Temporales_C_UAID_00D8615CF3E8499A02_1363138975
+[2025.10.20-16.15.58:582][780]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Temporales.BP_Platform_Temporales as actor: BP_Platform_Temporales_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Temporales_C_UAID_00D8615CF3E8499A02_1363138975
+[2025.10.20-16.16.03:656][226]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.20-16.16.03:656][226]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.20-16.16.03:657][226]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_0
+[2025.10.20-16.16.03:659][226]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_0
+[2025.10.20-16.16.04:262][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.20-16.16.04:267][271]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.10.20-16.16.04:272][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.20-16.16.04:272][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible_C
+[2025.10.20-16.16.04:275][271]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_UAID_00D8615CF3E8499A02_1368835976
+[2025.10.20-16.16.04:276][271]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/Interactuables/Platforms/BP_Platform_Movible.BP_Platform_Movible as actor: BP_Platform_Movible_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Platform_Movible_C_UAID_00D8615CF3E8499A02_1368835976
+[2025.10.20-16.16.07:239][579]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.20-16.16.19:163][785]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.20-16.16.21:555][ 31]Cmd: TRANSACTION UNDO
+[2025.10.20-16.16.21:555][ 31]LogEditorTransaction: Undo Move Elements
+[2025.10.20-16.16.30:913][921]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.20-16.16.51:664][ 30]Cmd: DUPLICATE
+[2025.10.20-16.16.51:664][ 30]Cmd: ACTOR DUPLICATE
+[2025.10.20-16.17.29:544][935]Cmd: DUPLICATE
+[2025.10.20-16.17.29:544][935]Cmd: ACTOR DUPLICATE
+[2025.10.20-16.17.29:559][935]LogClass: Warning: Short type name "BP_Platform_Temporales_C_UAID_00D8615CF3E8499A02_1363138975" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffec3efc9de UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec41fc147 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec41fda90 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec4181d17 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec41a4687 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec3ed26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec427309b UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec4181d17 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec41a4687 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.10.20-16.17.29:565][935]LogClass: Warning: Short type name "BP_Platform_Temporales_C_UAID_00D8615CF3E8499A02_1363138975" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffec3efc9de UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec41fc147 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec41fda90 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec4181d17 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec41a4687 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec3ed26c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec427309b UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec4181d17 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffec41a4687 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2025.10.20-16.17.33:610][294]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.20-16.17.47:962][630]Cmd: DUPLICATE
+[2025.10.20-16.17.47:962][630]Cmd: ACTOR DUPLICATE
+[2025.10.20-16.17.52:113][ 37]Cmd: DUPLICATE
+[2025.10.20-16.17.52:113][ 37]Cmd: ACTOR DUPLICATE
+[2025.10.20-16.18.04:135][172]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.20-16.18.05:880][357]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.20-16.18.06:726][448]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.20-16.18.11:955][955]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.20-16.18.15:027][279]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.20-16.18.21:421][902]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.10.20-16.18.21:433][902]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.20-16.18.21:433][902]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.20-16.18.21:435][902]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 2.539 ms (total: 14.228 ms)
+[2025.10.20-16.18.21:435][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.20-16.18.21:436][902]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.20-16.18.21:448][902]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.20-16.18.21:450][902]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.486 ms (total: 26.972 ms)
+[2025.10.20-16.18.21:450][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013792s)
+[2025.10.20-16.18.21:450][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.013830s)
+[2025.10.20-16.18.21:482][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.20-16.18.21:492][902]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.20-16.18.21:493][902]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.20-16.18.21:494][902]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.20-16.18.21:494][902]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.20-16.18.21:494][902]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.20-16.18.21:496][902]LogWorldPartition: Display: WorldPartition initialize took 2.873 ms (total: 133.997 ms)
+[2025.10.20-16.18.21:496][902]LogPlayLevel: PIE: World Init took: (0.004778s)
+[2025.10.20-16.18.21:498][902]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.10.20-16.18.21:498][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.20-16.18.21:498][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.20-16.18.21:498][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.20-16.18.21:498][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.20-16.18.21:498][902]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.20-16.18.21:498][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.20-16.18.21:498][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.20-16.18.21:498][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.20-16.18.21:498][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.20-16.18.21:498][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.20-16.18.21:498][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.20-16.18.21:500][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.20-16.18.21:526][902]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.10.20-16.18.21:526][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.20-16.18.21:526][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.20-16.18.21:526][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.20-16.18.21:526][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.10.20-16.18.21:526][902]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=14
+[2025.10.20-16.18.21:526][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.10.20-16.18.21:527][902]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12404
+[2025.10.20-16.18.21:527][902]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=14
+[2025.10.20-16.18.21:529][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.10.20-16.18.21:529][902]LogInit: FAudioDevice initialized with ID 14.
+[2025.10.20-16.18.21:529][902]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_ThirdPerson'.
+[2025.10.20-16.18.21:529][902]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.20-16.18.21:571][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.20-16.18.21:571][902]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.20-16.18.21:575][902]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_D4939030FFC6999902_1968106991)
+[2025.10.20-16.18.21:576][902]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.20-18.18.21
+[2025.10.20-16.18.21:577][902]LogWorld: Bringing up level for play took: 0.005349
+[2025.10.20-16.18.21:580][902]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.10.20-16.18.21:589][902]PIE: Server logged in
+[2025.10.20-16.18.21:593][902]PIE: Play in editor total start time 0,16 seconds.
+[2025.10.20-16.18.22:788][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1053.911621
+[2025.10.20-16.18.26:920][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.20-16.18.26:920][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1058.033569, Update Interval: 321.522888
+[2025.10.20-16.18.55:939][671]LogShaderCompilers: Display: ================================================
+[2025.10.20-16.18.55:939][671]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.20-16.18.55:939][671]LogShaderCompilers: Display: Total job queries 429, among them cache hits 57 (13.29%), DDC hits 302 (70.40%), Duplicates 65 (15.15%)
+[2025.10.20-16.18.55:939][671]LogShaderCompilers: Display: Tracking 307 distinct input hashes that result in 223 distinct outputs (72.64%)
+[2025.10.20-16.18.55:939][671]LogShaderCompilers: Display: RAM used: 3,01 MiB of 1,60 GiB budget. Usage: 0.18%
+[2025.10.20-16.18.55:939][671]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Average time worker was idle: 898.19 s
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Job execution time: average 1.79 s, max 2.94 s
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Job life time (pending + execution): average 1.85 s, max 2.98
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Shader code size: total 94,82 KiB, numShaders 5, average 18,964 KiB, min 4,363 KiB, max 27,375 KiB
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.66 s
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Average processing rate: 1.07 jobs/sec
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Total thread time: 7,713 s
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Total thread preprocess time: 5,103 s
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Percentage time preprocessing: 66.16%
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.414146
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.58 sec, max 2.58 sec, min 2.58 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 33.48% of total time (compiled    1 times, average 2.58 sec, max 2.58 sec, min 2.58 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                                                 FLumenCardCS - 25.88% of total time (compiled    1 times, average 2.00 sec, max 2.00 sec, min 2.00 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.57% of total time (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.38% of total time (compiled    1 times, average 1.34 sec, max 1.34 sec, min 1.34 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.69% of total time (compiled    1 times, average 0.44 sec, max 0.44 sec, min 0.44 sec)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: === Material stats ===
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Materials Translated:    148
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Material Translation Only: 0.05 s (34%)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: Material Cache Hits: 19 (13%)
+[2025.10.20-16.18.55:940][671]LogShaderCompilers: Display: ================================================
+[2025.10.20-16.19.02:256][381]LogBlueprintUserMessages: [BP_Companion1_C_UAID_D4939030FFC6999902_1968106991] PLAYER 1
+[2025.10.20-16.19.08:281][ 39]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=270.93 Y=124.10 Z=0.00 Location: X=995.35 Y=-2706.75 Z=92.15 Normal: X=-0.67 Y=0.74 Z=0.00 PenetrationDepth:0.038 Actor:StaticMeshActor_UAID_D4939030FFC6F09902_1085087305 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.10.20-16.19.13:191][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.20-16.19.13:191][565]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.20-16.19.13:191][565]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.20-16.19.13:192][565]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.20-16.19.13:196][565]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.20-16.19.13:197][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.20-16.19.13:198][565]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.20-16.19.13:199][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.20-16.19.13:206][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.20-16.19.13:232][565]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.20-16.19.13:232][565]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.10.20-16.19.13:234][565]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.10.20-16.19.13:234][565]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=14
+[2025.10.20-16.19.13:242][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.20-16.19.13:337][566]LogPlayLevel: Display: Destroying online subsystem :Context_28
