@@ -3047,3 +3047,707 @@ Sampler Limit: 32
 [2025.10.24-16.31.55:622][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Widgets/WBP_Interact_Auto1
 [2025.10.24-16.31.55:622][182]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_Interact_Auto174F9C85342227F7C55A48F856C76743C.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/Widgets/WBP_Interact_Auto1.uasset'
 [2025.10.24-16.31.55:622][182]LogFileHelpers: Auto-saving content packages took 0.220
+[2025.10.24-16.34.34:840][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.24-16.34.34:846][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.34.34:898][859]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/MP/BCPS7V29WG4070ZR95KMXW
+[2025.10.24-16.34.34:898][859]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BCPS7V29WG4070ZR95KMXW6361B1614C8A282CBF3C348602F6CA99.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/MP/BCPS7V29WG4070ZR95KMXW.uasset'
+[2025.10.24-16.34.34:899][859]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item] ([2] browsable assets)...
+[2025.10.24-16.34.34:899][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item]
+[2025.10.24-16.34.34:913][859]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item
+[2025.10.24-16.34.34:913][859]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item04A5AE624044AB7AF1AA9999E7F6A321.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item.uasset'
+[2025.10.24-16.34.34:914][859]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Widgets/WBP_Interact] ([2] browsable assets)...
+[2025.10.24-16.34.34:914][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Widgets/WBP_Interact]
+[2025.10.24-16.34.34:914][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Widgets/WBP_Interact" FILE="D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_Interact.uasset" SILENT=true
+[2025.10.24-16.34.34:927][859]LogSavePackage: Moving output files for package: /Game/Assets/Widgets/WBP_Interact
+[2025.10.24-16.34.34:927][859]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/WBP_InteractD7626A4F48AC9EB9BD89418DDE156CD1.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Widgets/WBP_Interact.uasset'
+[2025.10.24-16.34.34:937][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.152 ms (total: 4.69 sec)
+[2025.10.24-16.34.34:988][859]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.24-16.34.34:988][859]LogContentValidation: Enabled validators:
+[2025.10.24-16.34.34:988][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.34.34:988][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.34.34:988][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.34.34:988][859]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.34.34:988][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.34.34:988][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.34.34:988][859]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.10.24-16.34.34:988][859]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item Validating asset
+[2025.10.24-16.34.34:988][859]AssetCheck: /Game/Assets/Widgets/WBP_Interact Validating asset
+[2025.10.24-16.34.52:871][107]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 1 segments. Attempt 1 out of 16 tries.
+[2025.10.24-16.34.52:871][107]LogUdpMessaging: Warning: Waiting for ack too long. Re-sending 2 segments. Attempt 1 out of 16 tries.
+[2025.10.24-16.35.04:120][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Interactuables/Items/BP_Item_01.BP_Item_01
+[2025.10.24-16.35.04:120][854]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.10.24-16.35.48:370][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2500.419922
+[2025.10.24-16.35.48:551][177]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-16.35.48:551][177]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2500.561768, Update Interval: 310.574677
+[2025.10.24-16.36.11:900][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.24-16.36.13:524][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.36.13:568][133]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item] ([2] browsable assets)...
+[2025.10.24-16.36.13:606][133]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Item.BP_Item]
+[2025.10.24-16.36.13:606][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item]
+[2025.10.24-16.36.13:622][133]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item
+[2025.10.24-16.36.13:622][133]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ItemAA1742D64E16E38B2D0590821E349CFF.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item.uasset'
+[2025.10.24-16.36.13:632][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.921 ms (total: 4.80 sec)
+[2025.10.24-16.36.13:685][133]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.36.13:685][133]LogContentValidation: Enabled validators:
+[2025.10.24-16.36.13:685][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.36.13:685][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.36.13:685][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.36.13:685][133]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.36.13:685][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.36.13:685][133]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.36.13:685][133]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item Validating asset
+[2025.10.24-16.36.33:053][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.24-16.36.33:060][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.36.33:100][632]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.36.33:139][632]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Item_01.BP_Item_01]
+[2025.10.24-16.36.33:139][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.36.33:152][632]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.36.33:153][632]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_015E9D22C14FD8250A255AC78B6FC23E44.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.36.33:163][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.533 ms (total: 4.90 sec)
+[2025.10.24-16.36.33:216][632]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.36.33:216][632]LogContentValidation: Enabled validators:
+[2025.10.24-16.36.33:216][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.36.33:216][632]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.36.33:216][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.36.33:216][632]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.36.33:216][632]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.36.33:216][632]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.36.33:216][632]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.36.34:395][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.24-16.36.35:827][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.24-16.36.36:809][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.36.36:850][868]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.36.36:889][868]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Item_01.BP_Item_01]
+[2025.10.24-16.36.36:889][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.36.36:901][868]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.36.36:902][868]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_0174B7071C452DA7F10610DD9F05E03CAA.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.36.36:912][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.042 ms (total: 5.01 sec)
+[2025.10.24-16.36.36:982][868]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.36.36:982][868]LogContentValidation: Enabled validators:
+[2025.10.24-16.36.36:982][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.36.36:982][868]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.36.36:982][868]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.36.36:982][868]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.36.36:982][868]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.36.36:982][868]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.36.36:982][868]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.37.05:048][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.24-16.37.05:682][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.24-16.37.06:117][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.37.06:167][229]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item] ([2] browsable assets)...
+[2025.10.24-16.37.06:201][229]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Item.BP_Item]
+[2025.10.24-16.37.06:201][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item]
+[2025.10.24-16.37.06:218][229]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item
+[2025.10.24-16.37.06:218][229]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item2AEE0BE746E496FC7A9234A1861C111F.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item.uasset'
+[2025.10.24-16.37.06:228][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.437 ms (total: 5.12 sec)
+[2025.10.24-16.37.06:265][229]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.37.06:265][229]LogContentValidation: Enabled validators:
+[2025.10.24-16.37.06:265][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.37.06:265][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.37.06:265][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.37.06:265][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.37.06:265][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.37.06:266][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.37.06:266][229]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item Validating asset
+[2025.10.24-16.37.07:416][319]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.10.24-16.37.07:428][319]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.24-16.37.07:428][319]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.24-16.37.07:429][319]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.022 ms (total: 4.580 ms)
+[2025.10.24-16.37.07:430][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-16.37.07:430][319]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.24-16.37.07:442][319]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.24-16.37.07:445][319]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.916 ms (total: 11.177 ms)
+[2025.10.24-16.37.07:445][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016010s)
+[2025.10.24-16.37.07:445][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.016049s)
+[2025.10.24-16.37.07:470][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.10.24-16.37.07:473][319]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.24-16.37.07:475][319]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.24-16.37.07:475][319]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.24-16.37.07:475][319]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.24-16.37.07:475][319]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.24-16.37.07:478][319]LogWorldPartition: Display: WorldPartition initialize took 3.010 ms (total: 2.28 sec)
+[2025.10.24-16.37.07:478][319]LogPlayLevel: PIE: World Init took: (0.004990s)
+[2025.10.24-16.37.07:479][319]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.24-16.37.07:479][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-16.37.07:479][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-16.37.07:479][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-16.37.07:479][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-16.37.07:479][319]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-16.37.07:479][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-16.37.07:479][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-16.37.07:479][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-16.37.07:479][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-16.37.07:479][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-16.37.07:479][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-16.37.07:481][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-16.37.07:508][319]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.10.24-16.37.07:508][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-16.37.07:508][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-16.37.07:508][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-16.37.07:509][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.24-16.37.07:509][319]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=5
+[2025.10.24-16.37.07:509][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.24-16.37.07:509][319]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3888
+[2025.10.24-16.37.07:509][319]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=5
+[2025.10.24-16.37.07:511][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.24-16.37.07:511][319]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.24-16.37.07:511][319]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2025.10.24-16.37.07:511][319]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.24-16.37.07:548][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-16.37.07:548][319]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.24-16.37.07:555][319]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.24-18.37.07
+[2025.10.24-16.37.07:555][319]LogWorld: Bringing up level for play took: 0.006570
+[2025.10.24-16.37.07:558][319]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.10.24-16.37.07:570][319]PIE: Server logged in
+[2025.10.24-16.37.07:575][319]PIE: Play in editor total start time 0,147 seconds.
+[2025.10.24-16.37.12:251][608]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:267][609]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:282][610]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:298][611]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:313][612]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:329][613]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:344][614]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:360][615]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:375][616]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:391][617]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:406][618]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.12:423][619]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.15:380][812]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.15:396][813]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.15:410][814]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.15:425][815]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.15:442][816]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.17:530][954]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.17:545][955]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.17:561][956]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.22:889][304]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.22:903][305]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.22:920][306]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.22:935][307]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.22:949][308]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.22:965][309]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.22:980][310]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.37.24:021][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-16.37.24:021][376]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.24-16.37.24:021][376]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.24-16.37.24:022][376]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-16.37.24:028][376]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-16.37.24:029][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.37.24:030][376]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.24-16.37.24:031][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-16.37.24:036][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.37.24:062][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-16.37.24:062][376]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.24-16.37.24:062][376]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.24-16.37.24:064][376]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.24-16.37.24:064][376]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=5
+[2025.10.24-16.37.24:070][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.24-16.37.24:117][377]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.10.24-16.37.35:205][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.24-16.37.36:408][266]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.10.24-16.37.36:419][266]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.24-16.37.36:419][266]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.24-16.37.36:420][266]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 872 us (total: 5.452 ms)
+[2025.10.24-16.37.36:420][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-16.37.36:420][266]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.24-16.37.36:433][266]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.24-16.37.36:436][266]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.715 ms (total: 13.893 ms)
+[2025.10.24-16.37.36:436][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015461s)
+[2025.10.24-16.37.36:436][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.015495s)
+[2025.10.24-16.37.36:460][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.24-16.37.36:462][266]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.24-16.37.36:463][266]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.24-16.37.36:464][266]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.24-16.37.36:464][266]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.24-16.37.36:464][266]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.24-16.37.36:466][266]LogWorldPartition: Display: WorldPartition initialize took 2.922 ms (total: 2.28 sec)
+[2025.10.24-16.37.36:466][266]LogPlayLevel: PIE: World Init took: (0.004757s)
+[2025.10.24-16.37.36:467][266]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.24-16.37.36:467][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-16.37.36:467][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-16.37.36:467][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-16.37.36:467][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-16.37.36:467][266]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-16.37.36:467][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-16.37.36:467][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-16.37.36:467][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-16.37.36:468][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-16.37.36:468][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-16.37.36:468][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-16.37.36:469][266]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-16.37.36:496][266]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.10.24-16.37.36:496][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-16.37.36:496][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-16.37.36:496][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-16.37.36:496][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.24-16.37.36:496][266]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=6
+[2025.10.24-16.37.36:496][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.24-16.37.36:496][266]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13264
+[2025.10.24-16.37.36:496][266]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=6
+[2025.10.24-16.37.36:498][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.24-16.37.36:498][266]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.24-16.37.36:498][266]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2025.10.24-16.37.36:498][266]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.24-16.37.36:546][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-16.37.36:546][266]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.24-16.37.36:551][266]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.24-18.37.36
+[2025.10.24-16.37.36:551][266]LogWorld: Bringing up level for play took: 0.005483
+[2025.10.24-16.37.36:554][266]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.10.24-16.37.36:565][266]PIE: Server logged in
+[2025.10.24-16.37.36:570][266]PIE: Play in editor total start time 0,15 seconds.
+[2025.10.24-16.37.42:734][665]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.38.39:814][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-16.38.39:814][353]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.24-16.38.39:814][353]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.24-16.38.39:815][353]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-16.38.39:821][353]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-16.38.39:822][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.38.39:823][353]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.24-16.38.39:824][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-16.38.39:829][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.38.39:856][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-16.38.39:856][353]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.24-16.38.39:856][353]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.24-16.38.39:858][353]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.24-16.38.39:859][353]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=6
+[2025.10.24-16.38.39:864][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.24-16.38.39:906][354]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.10.24-16.38.49:464][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.24-16.38.49:469][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.38.49:511][128]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item] ([2] browsable assets)...
+[2025.10.24-16.38.49:550][128]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Item.BP_Item]
+[2025.10.24-16.38.49:550][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item]
+[2025.10.24-16.38.49:566][128]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item
+[2025.10.24-16.38.49:566][128]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ItemA35B95D245273DF822537EA202785227.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item.uasset'
+[2025.10.24-16.38.49:576][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.023 ms (total: 5.22 sec)
+[2025.10.24-16.38.49:649][128]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.38.49:650][128]LogContentValidation: Enabled validators:
+[2025.10.24-16.38.49:650][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.38.49:650][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.38.49:650][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.38.49:650][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.38.49:650][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.38.49:650][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.38.49:650][128]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item Validating asset
+[2025.10.24-16.38.57:476][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.24-16.38.57:481][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.38.57:511][752]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item] ([2] browsable assets)...
+[2025.10.24-16.38.57:511][752]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item]
+[2025.10.24-16.38.57:528][752]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item
+[2025.10.24-16.38.57:528][752]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item17C33F894AF977FFAB561DBC88C838E6.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item.uasset'
+[2025.10.24-16.38.57:538][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.219 ms (total: 5.28 sec)
+[2025.10.24-16.38.57:579][752]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.38.57:579][752]LogContentValidation: Enabled validators:
+[2025.10.24-16.38.57:579][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.38.57:579][752]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.38.57:579][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.38.57:579][752]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.38.57:579][752]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.38.57:579][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.38.57:579][752]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item Validating asset
+[2025.10.24-16.39.01:788][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.24-16.39.01:793][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.39.01:844][ 73]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.39.01:885][ 73]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Item_01.BP_Item_01]
+[2025.10.24-16.39.01:885][ 73]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.39.01:897][ 73]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.39.01:897][ 73]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_01E48AB4D44563B561423684B430554F30.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.39.01:908][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.926 ms (total: 5.40 sec)
+[2025.10.24-16.39.01:961][ 73]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.39.01:961][ 73]LogContentValidation: Enabled validators:
+[2025.10.24-16.39.01:961][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.39.01:961][ 73]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.39.01:961][ 73]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.39.01:961][ 73]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.39.01:961][ 73]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.39.01:961][ 73]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.39.01:961][ 73]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.39.03:385][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.24-16.39.04:203][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.39.04:263][252]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.39.04:302][252]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Item_01.BP_Item_01]
+[2025.10.24-16.39.04:302][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.39.04:315][252]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.39.04:315][252]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_011C17A6CA4269D2D8FBD196835A40C7C5.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.39.04:324][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.306 ms (total: 5.52 sec)
+[2025.10.24-16.39.04:378][252]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.39.04:378][252]LogContentValidation: Enabled validators:
+[2025.10.24-16.39.04:378][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.39.04:378][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.39.04:378][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.39.04:378][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.39.04:378][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.39.04:378][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.39.04:378][252]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.39.12:277][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Interactuables/Coger/BP_Coger.BP_Coger
+[2025.10.24-16.39.12:278][860]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.10.24-16.39.22:079][536]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-16.39.22:079][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.39.22:168][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.24-16.39.24:243][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Interactuables/Coger/BP_Coger.BP_Coger
+[2025.10.24-16.39.24:244][696]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.10.24-16.40.39:119][ 30]LogContentBrowser: Deferred new asset file creation: BP_Item1
+[2025.10.24-16.40.39:135][ 30]LogContentBrowser: Creating deferred item: BP_Item1
+[2025.10.24-16.40.39:156][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Item1).
+[2025.10.24-16.40.41:223][169]LogContentBrowser: Attempting asset rename: BP_Item1 -> BP_Item1
+[2025.10.24-16.40.41:281][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.24-16.40.41:300][169]LogContentBrowser: End creating deferred item BP_Item1
+[2025.10.24-16.40.41:353][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.10.24-16.40.42:048][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.24-16.40.43:420][199]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.24-16.40.43:753][199]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-16.40.43:753][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.40.43:828][199]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.24-16.40.43:828][199]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-16.40.43:828][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.40.43:875][199]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Interactuables/Items/BP_Item1.BP_Item1
+	Asset Type: Blueprint
+[2025.10.24-16.40.44:188][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.24-16.40.44:240][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.24-16.40.44:264][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.24-16.40.44:288][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.24-16.40.44:318][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.24-16.40.48:363][442]LogContentBrowser: Deferred new asset file creation: BP_Item_Child
+[2025.10.24-16.40.48:402][442]LogContentBrowser: Creating deferred item: BP_Item_Child
+[2025.10.24-16.40.48:428][443]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Item_Child).
+[2025.10.24-16.40.58:700][144]LogContentBrowser: Attempting asset rename: BP_Item_Child -> BP_Pesos
+[2025.10.24-16.40.58:708][144]LogContentBrowser: End creating deferred item BP_Item_Child
+[2025.10.24-16.40.58:708][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.10.24-16.41.00:342][232]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Interactuables/Items/BP_Pesos.BP_Pesos
+[2025.10.24-16.41.00:342][232]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.10.24-16.41.38:477][608]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.10.24-16.41.38:488][608]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.24-16.41.38:488][608]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.24-16.41.38:489][608]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 945 us (total: 6.397 ms)
+[2025.10.24-16.41.38:489][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.24-16.41.38:490][608]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.24-16.41.38:501][608]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.24-16.41.38:505][608]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.697 ms (total: 16.591 ms)
+[2025.10.24-16.41.38:505][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015643s)
+[2025.10.24-16.41.38:505][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.015675s)
+[2025.10.24-16.41.38:548][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.10.24-16.41.38:551][608]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.24-16.41.38:553][608]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.24-16.41.38:553][608]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.24-16.41.38:553][608]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.24-16.41.38:553][608]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.24-16.41.38:556][608]LogWorldPartition: Display: WorldPartition initialize took 2.967 ms (total: 2.29 sec)
+[2025.10.24-16.41.38:556][608]LogPlayLevel: PIE: World Init took: (0.004914s)
+[2025.10.24-16.41.38:557][608]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.24-16.41.38:557][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-16.41.38:557][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-16.41.38:557][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-16.41.38:557][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-16.41.38:557][608]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-16.41.38:557][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-16.41.38:557][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-16.41.38:557][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-16.41.38:557][608]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-16.41.38:557][608]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-16.41.38:557][608]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-16.41.38:559][608]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-16.41.38:584][608]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.10.24-16.41.38:585][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-16.41.38:585][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-16.41.38:585][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-16.41.38:585][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.24-16.41.38:585][608]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=7
+[2025.10.24-16.41.38:585][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.24-16.41.38:585][608]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2796
+[2025.10.24-16.41.38:585][608]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2025.10.24-16.41.38:587][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.24-16.41.38:587][608]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.24-16.41.38:587][608]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2025.10.24-16.41.38:587][608]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.24-16.41.38:621][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-16.41.38:621][608]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.24-16.41.38:627][608]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.24-18.41.38
+[2025.10.24-16.41.38:627][608]LogWorld: Bringing up level for play took: 0.005294
+[2025.10.24-16.41.38:630][608]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.10.24-16.41.38:641][608]PIE: Server logged in
+[2025.10.24-16.41.38:646][608]PIE: Play in editor total start time 0,158 seconds.
+[2025.10.24-16.41.49:778][273]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.55:304][606]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.55:417][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2867.479248
+[2025.10.24-16.41.55:584][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-16.41.55:584][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2867.629395, Update Interval: 343.574951
+[2025.10.24-16.41.56:890][702]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.57:088][714]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.57:252][724]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.57:416][734]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.57:580][744]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.57:743][754]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.57:906][764]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.58:072][774]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.58:242][784]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.58:424][795]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.58:607][806]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.58:820][819]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.59:006][830]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.59:189][841]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.59:339][850]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.59:509][860]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.59:657][869]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.41.59:837][880]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.00:006][890]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.00:174][900]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.00:339][910]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.00:507][920]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.00:672][930]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.01:109][956]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.01:323][969]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.01:523][981]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.01:688][991]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.01:851][  1]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.02:032][ 12]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.02:187][ 21]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.02:353][ 31]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.42.54:895][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-16.42.54:895][193]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.24-16.42.54:895][193]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.24-16.42.54:896][193]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-16.42.54:902][193]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-16.42.54:904][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.42.54:904][193]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.24-16.42.54:905][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-16.42.54:911][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.42.54:935][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.24-16.42.54:935][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.24-16.42.54:935][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.10.24-16.42.54:937][193]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.10.24-16.42.54:937][193]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=7
+[2025.10.24-16.42.54:942][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-16.42.54:989][194]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.10.24-16.43.01:239][545]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Interactuables/Items/BP_Item.BP_Item
+[2025.10.24-16.43.01:239][545]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.10.24-16.43.13:221][298]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Interactuables/Items/BP_Item_01.BP_Item_01
+[2025.10.24-16.43.13:221][298]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.10.24-16.43.24:252][190]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.10.24-16.43.24:264][190]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.24-16.43.24:264][190]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.24-16.43.24:265][190]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 891 us (total: 7.288 ms)
+[2025.10.24-16.43.24:266][190]LogPlayLevel: [PlayLevel] Compiling BP_Item_01 before play...
+[2025.10.24-16.43.24:379][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.24-16.43.24:381][190]LogPlayLevel: PlayLevel: Blueprint regeneration took 115 ms (1 blueprints)
+[2025.10.24-16.43.24:381][190]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.24-16.43.24:393][190]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.24-16.43.24:396][190]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.790 ms (total: 19.381 ms)
+[2025.10.24-16.43.24:396][190]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015080s)
+[2025.10.24-16.43.24:396][190]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.015112s)
+[2025.10.24-16.43.24:419][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.24-16.43.24:421][190]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.24-16.43.24:422][190]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.24-16.43.24:422][190]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.24-16.43.24:422][190]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.24-16.43.24:423][190]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.24-16.43.24:425][190]LogWorldPartition: Display: WorldPartition initialize took 2.932 ms (total: 2.29 sec)
+[2025.10.24-16.43.24:425][190]LogPlayLevel: PIE: World Init took: (0.004686s)
+[2025.10.24-16.43.24:426][190]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.10.24-16.43.24:426][190]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.24-16.43.24:426][190]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.24-16.43.24:426][190]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.24-16.43.24:426][190]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.24-16.43.24:426][190]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.24-16.43.24:426][190]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.24-16.43.24:426][190]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.24-16.43.24:426][190]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.24-16.43.24:426][190]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.24-16.43.24:426][190]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.24-16.43.24:426][190]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.24-16.43.24:429][190]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.24-16.43.24:453][190]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.10.24-16.43.24:454][190]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.24-16.43.24:454][190]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.24-16.43.24:454][190]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.24-16.43.24:454][190]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.10.24-16.43.24:454][190]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=8
+[2025.10.24-16.43.24:454][190]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.10.24-16.43.24:454][190]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14420
+[2025.10.24-16.43.24:454][190]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=8
+[2025.10.24-16.43.24:456][190]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.10.24-16.43.24:456][190]LogInit: FAudioDevice initialized with ID 8.
+[2025.10.24-16.43.24:456][190]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2025.10.24-16.43.24:456][190]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.24-16.43.24:501][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-16.43.24:501][190]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.24-16.43.24:506][190]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.24-18.43.24
+[2025.10.24-16.43.24:506][190]LogWorld: Bringing up level for play took: 0.005487
+[2025.10.24-16.43.24:509][190]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.10.24-16.43.24:519][190]PIE: Server logged in
+[2025.10.24-16.43.24:524][190]PIE: Play in editor total start time 0,261 seconds.
+[2025.10.24-16.43.29:332][524]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.43.32:950][786]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.43.34:690][910]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.43.35:427][963]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.43.35:645][979]LogBlueprintUserMessages: [BP_Item_01_C_UAID_00D8615CF3E8889B02_1281282111] ITEM1
+[2025.10.24-16.43.39:560][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.24-16.43.39:560][256]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.24-16.43.39:560][256]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.24-16.43.39:560][256]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.10.24-16.43.39:566][256]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.24-16.43.39:567][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.43.39:567][256]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.24-16.43.39:568][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.24-16.43.39:574][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.24-16.43.39:599][256]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.24-16.43.39:599][256]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.10.24-16.43.39:601][256]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.10.24-16.43.39:601][256]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=8
+[2025.10.24-16.43.39:605][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.24-16.43.39:646][257]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.10.24-16.43.40:519][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.10.24-16.43.41:109][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.43.41:170][367]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.43.41:210][367]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Item_01.BP_Item_01]
+[2025.10.24-16.43.41:210][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.43.41:223][367]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.43.41:223][367]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_01D1BDE651419E4694BBA2C3818791C43F.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.43.41:233][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.632 ms (total: 5.64 sec)
+[2025.10.24-16.43.41:285][367]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.43.41:285][367]LogContentValidation: Enabled validators:
+[2025.10.24-16.43.41:285][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.43.41:285][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.43.41:285][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.43.41:285][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.43.41:285][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.43.41:285][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.43.41:285][367]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.43.41:676][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.43.41:735][401]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.43.41:735][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.43.41:748][401]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.43.41:748][401]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_018F9BC379475C0BDD2117C38385710768.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.43.41:759][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.523 ms (total: 5.72 sec)
+[2025.10.24-16.43.41:819][401]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.43.41:819][401]LogContentValidation: Enabled validators:
+[2025.10.24-16.43.41:819][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.43.41:819][401]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.43.41:819][401]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.43.41:819][401]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.43.41:819][401]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.43.41:819][401]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.43.41:819][401]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.44.48:294][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.24-16.44.48:298][987]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.035
+[2025.10.24-16.44.48:298][987]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Pesos] ([2] browsable assets)...
+[2025.10.24-16.44.48:490][987]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Interactuables/Items/BP_Pesos.BP_Pesos]
+[2025.10.24-16.44.48:493][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Pesos]
+[2025.10.24-16.44.48:509][987]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Interactuables/Items/BP_Pesos_Auto2
+[2025.10.24-16.44.48:509][987]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Pesos_Auto218594AC040C1BD5F78DAE8A80483DDD1.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/Interactuables/Items/BP_Pesos_Auto2.uasset'
+[2025.10.24-16.44.48:783][987]LogFileHelpers: Auto-saving content packages took 0.486
+[2025.10.24-16.45.37:617][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.24-16.45.37:622][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.45.37:695][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Pesos] ([2] browsable assets)...
+[2025.10.24-16.45.37:695][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Pesos]
+[2025.10.24-16.45.37:707][228]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Pesos
+[2025.10.24-16.45.37:707][228]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Pesos53B466ED4C1835FA910FC6A15B5E7AE6.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Pesos.uasset'
+[2025.10.24-16.45.37:719][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.946 ms (total: 5.82 sec)
+[2025.10.24-16.45.37:848][228]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.45.37:848][228]LogContentValidation: Enabled validators:
+[2025.10.24-16.45.37:848][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.45.37:848][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.45.37:848][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.45.37:849][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.45.37:849][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.45.37:849][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.45.37:849][228]AssetCheck: /Game/Assets/Interactuables/Items/BP_Pesos Validating asset
+[2025.10.24-16.45.37:880][228]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.24-16.48.34:492][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3266.542480
+[2025.10.24-16.48.35:490][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-16.48.35:490][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3267.207520, Update Interval: 334.847870
+[2025.10.24-16.49.28:630][210]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.49.28:673][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.49.28:673][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.49.28:686][210]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.49.28:687][210]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_01A0AC926445D3F8C23404578C79136C33.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.49.28:696][210]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.037 ms (total: 5.89 sec)
+[2025.10.24-16.49.28:756][210]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.49.28:756][210]LogContentValidation: Enabled validators:
+[2025.10.24-16.49.28:756][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.49.28:756][210]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.49.28:756][210]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.49.28:756][210]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.49.28:756][210]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.49.28:756][210]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.49.28:756][210]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.49.28:917][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.49.28:972][222]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.49.28:972][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.49.28:985][222]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.49.28:985][222]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_0147D5B6C5458622724F1B2B8172DBEDF3.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.49.28:996][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.594 ms (total: 5.96 sec)
+[2025.10.24-16.49.29:039][222]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.49.29:039][222]LogContentValidation: Enabled validators:
+[2025.10.24-16.49.29:039][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.49.29:039][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.49.29:039][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.49.29:039][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.49.29:039][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.49.29:039][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.49.29:039][222]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.49.29:112][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.49.29:172][227]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.49.29:172][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.49.29:184][227]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.49.29:185][227]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_01CD01483943A456CCF426EC95B5DAACDF.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.49.29:195][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.439 ms (total: 6.05 sec)
+[2025.10.24-16.49.29:291][227]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.49.29:291][227]LogContentValidation: Enabled validators:
+[2025.10.24-16.49.29:291][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.49.29:291][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.49.29:291][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.49.29:291][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.49.29:291][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.49.29:291][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.49.29:292][227]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.49.29:403][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.49.29:456][235]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.49.29:456][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.49.29:469][235]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.49.29:469][235]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_01AC425C6D4C7F9484186398B5B01120A1.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.49.29:479][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.088 ms (total: 6.12 sec)
+[2025.10.24-16.49.29:523][235]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.49.29:523][235]LogContentValidation: Enabled validators:
+[2025.10.24-16.49.29:523][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.49.29:523][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.49.29:523][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.49.29:523][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.49.29:523][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.49.29:523][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.49.29:523][235]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.49.29:573][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.49.29:623][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.49.29:623][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.49.29:635][238]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.49.29:635][238]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_01AAA645554D6AADD346BB67800B9AE769.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.49.29:646][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.199 ms (total: 6.20 sec)
+[2025.10.24-16.49.29:723][238]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.49.29:723][238]LogContentValidation: Enabled validators:
+[2025.10.24-16.49.29:723][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.49.29:723][238]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.49.29:723][238]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.49.29:723][238]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.49.29:723][238]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.49.29:723][238]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.49.29:724][238]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.49.29:856][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-16.49.29:903][248]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Items/BP_Item_01] ([2] browsable assets)...
+[2025.10.24-16.49.29:903][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Items/BP_Item_01]
+[2025.10.24-16.49.29:917][248]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Items/BP_Item_01
+[2025.10.24-16.49.29:917][248]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Item_0133BA83F345FDC12B319ECDAFB73ACEB5.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Items/BP_Item_01.uasset'
+[2025.10.24-16.49.29:927][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.685 ms (total: 6.27 sec)
+[2025.10.24-16.49.29:989][248]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-16.49.29:989][248]LogContentValidation: Enabled validators:
+[2025.10.24-16.49.29:989][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-16.49.29:989][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-16.49.29:989][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-16.49.29:989][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-16.49.29:989][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-16.49.29:989][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-16.49.29:989][248]AssetCheck: /Game/Assets/Interactuables/Items/BP_Item_01 Validating asset
+[2025.10.24-16.49.30:270][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.24-16.49.30:416][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.24-16.49.30:569][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.24-16.49.30:748][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.24-16.54.18:757][232]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={BC610694-4DAD-0B0C-168E-07A76C12DE36}
