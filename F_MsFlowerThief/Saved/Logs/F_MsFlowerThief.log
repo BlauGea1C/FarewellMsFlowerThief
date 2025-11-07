@@ -5097,3 +5097,925 @@ Sampler Limit: 32
 [2025.11.07-17.21.10:199][657]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9962.426758
 [2025.11.07-17.21.10:353][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.07-17.21.10:353][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9962.563477, Update Interval: 319.567261
+[2025.11.07-17.24.43:248][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.07-17.24.43:253][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-17.24.43:312][603]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_RevealArea] ([2] browsable assets)...
+[2025.11.07-17.24.43:365][603]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_RevealArea.BP_RevealArea]
+[2025.11.07-17.24.43:365][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_RevealArea]
+[2025.11.07-17.24.43:365][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Companion/BP_RevealArea" FILE="D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_RevealArea.uasset" SILENT=true
+[2025.11.07-17.24.43:383][603]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_RevealArea
+[2025.11.07-17.24.43:383][603]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_RevealArea7DC8660346A184EF9E8A1780A73F30BA.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_RevealArea.uasset'
+[2025.11.07-17.24.43:398][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.613 ms (total: 10.2 sec)
+[2025.11.07-17.24.43:459][603]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-17.24.43:459][603]LogContentValidation: Enabled validators:
+[2025.11.07-17.24.43:459][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-17.24.43:459][603]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-17.24.43:459][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-17.24.43:459][603]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-17.24.43:459][603]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-17.24.43:459][603]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-17.24.43:459][603]AssetCheck: /Game/Assets/Companion/BP_RevealArea Validating asset
+[2025.11.07-17.24.44:634][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.11.07-17.24.44:636][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.027
+[2025.11.07-17.24.45:803][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.11.07-17.27.16:868][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10329.736328
+[2025.11.07-17.27.17:037][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-17.27.17:037][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10329.888672, Update Interval: 345.376740
+[2025.11.07-17.29.08:927][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.07-17.29.18:500][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.11.07-17.29.20:267][713]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.07-17.29.20:279][713]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.07-17.29.20:279][713]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.07-17.29.20:280][713]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 952 us (total: 23.522 ms)
+[2025.11.07-17.29.20:280][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-17.29.20:280][713]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.29.20:295][713]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.07-17.29.20:298][713]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.003 ms (total: 72.137 ms)
+[2025.11.07-17.29.20:298][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017790s)
+[2025.11.07-17.29.20:298][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.017824s)
+[2025.11.07-17.29.20:324][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.07-17.29.20:327][713]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.07-17.29.20:329][713]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.07-17.29.20:329][713]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.07-17.29.20:329][713]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.07-17.29.20:329][713]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.07-17.29.20:333][713]LogWorldPartition: Display: WorldPartition initialize took 3.260 ms (total: 2.38 sec)
+[2025.11.07-17.29.20:333][713]LogPlayLevel: PIE: World Init took: (0.005214s)
+[2025.11.07-17.29.20:333][713]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.11.07-17.29.20:333][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-17.29.20:334][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-17.29.20:334][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-17.29.20:334][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-17.29.20:334][713]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-17.29.20:334][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-17.29.20:334][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-17.29.20:334][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-17.29.20:334][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-17.29.20:334][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-17.29.20:334][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-17.29.20:336][713]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-17.29.20:364][713]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.07-17.29.20:364][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-17.29.20:364][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-17.29.20:364][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-17.29.20:365][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.11.07-17.29.20:365][713]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=24
+[2025.11.07-17.29.20:365][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.11.07-17.29.20:365][713]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34232
+[2025.11.07-17.29.20:365][713]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=24
+[2025.11.07-17.29.20:367][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.11.07-17.29.20:367][713]LogInit: FAudioDevice initialized with ID 24.
+[2025.11.07-17.29.20:367][713]LogAudio: Display: Audio Device (ID: 24) registered with world 'Lvl_ThirdPerson'.
+[2025.11.07-17.29.20:367][713]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.07-17.29.20:428][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.29.20:428][713]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.07-17.29.20:433][713]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319)
+[2025.11.07-17.29.20:435][713]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.07-18.29.20
+[2025.11.07-17.29.20:436][713]LogWorld: Bringing up level for play took: 0.006757
+[2025.11.07-17.29.20:439][713]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.11.07-17.29.20:453][713]PIE: Server logged in
+[2025.11.07-17.29.20:460][713]PIE: Play in editor total start time 0,181 seconds.
+[2025.11.07-17.29.24:543][909]LogBlueprintUserMessages: [BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319] PLAYER 1
+[2025.11.07-17.29.26:637][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.29.26:637][ 11]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.29.26:637][ 11]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.07-17.29.26:638][ 11]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.07-17.29.26:645][ 11]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-17.29.26:646][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.29.26:646][ 11]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-17.29.26:647][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-17.29.26:653][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.29.26:678][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.07-17.29.26:679][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.07-17.29.26:679][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.11.07-17.29.26:680][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.11.07-17.29.26:680][ 11]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=24
+[2025.11.07-17.29.26:686][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.11.07-17.29.26:731][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.11.07-17.29.31:656][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.11.07-17.29.32:771][335]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.07-17.29.32:782][335]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.07-17.29.32:782][335]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.07-17.29.32:783][335]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 987 us (total: 24.510 ms)
+[2025.11.07-17.29.32:784][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-17.29.32:784][335]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.29.32:798][335]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.07-17.29.32:801][335]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.046 ms (total: 75.184 ms)
+[2025.11.07-17.29.32:801][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017482s)
+[2025.11.07-17.29.32:801][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.017527s)
+[2025.11.07-17.29.32:826][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.11.07-17.29.32:829][335]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.07-17.29.32:831][335]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.07-17.29.32:831][335]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.07-17.29.32:831][335]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.07-17.29.32:831][335]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.07-17.29.32:834][335]LogWorldPartition: Display: WorldPartition initialize took 3.238 ms (total: 2.38 sec)
+[2025.11.07-17.29.32:834][335]LogPlayLevel: PIE: World Init took: (0.005045s)
+[2025.11.07-17.29.32:835][335]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.11.07-17.29.32:835][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-17.29.32:835][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-17.29.32:835][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-17.29.32:835][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-17.29.32:835][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-17.29.32:835][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-17.29.32:835][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-17.29.32:835][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-17.29.32:835][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-17.29.32:835][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-17.29.32:835][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-17.29.32:837][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-17.29.32:864][335]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.07-17.29.32:864][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-17.29.32:864][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-17.29.32:864][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-17.29.32:864][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.11.07-17.29.32:864][335]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=25
+[2025.11.07-17.29.32:864][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.11.07-17.29.32:864][335]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18700
+[2025.11.07-17.29.32:864][335]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=25
+[2025.11.07-17.29.32:866][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.11.07-17.29.32:866][335]LogInit: FAudioDevice initialized with ID 25.
+[2025.11.07-17.29.32:866][335]LogAudio: Display: Audio Device (ID: 25) registered with world 'Lvl_ThirdPerson'.
+[2025.11.07-17.29.32:867][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.07-17.29.32:928][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.29.32:928][335]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.07-17.29.32:933][335]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319)
+[2025.11.07-17.29.32:934][335]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.07-18.29.32
+[2025.11.07-17.29.32:935][335]LogWorld: Bringing up level for play took: 0.006216
+[2025.11.07-17.29.32:937][335]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.11.07-17.29.32:950][335]PIE: Server logged in
+[2025.11.07-17.29.32:957][335]PIE: Play in editor total start time 0,175 seconds.
+[2025.11.07-17.29.40:246][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.29.40:246][689]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.29.40:246][689]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.07-17.29.40:247][689]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.07-17.29.40:254][689]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-17.29.40:256][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.29.40:256][689]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-17.29.40:257][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-17.29.40:262][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.29.40:289][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.07-17.29.40:290][689]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.07-17.29.40:290][689]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.11.07-17.29.40:292][689]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.11.07-17.29.40:292][689]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=25
+[2025.11.07-17.29.40:297][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.07-17.29.40:344][690]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.11.07-17.29.46:990][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.07-17.29.48:091][110]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.07-17.29.48:103][110]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.07-17.29.48:103][110]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.07-17.29.48:105][110]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.005 ms (total: 25.516 ms)
+[2025.11.07-17.29.48:105][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-17.29.48:105][110]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.29.48:119][110]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.07-17.29.48:122][110]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.187 ms (total: 78.372 ms)
+[2025.11.07-17.29.48:122][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017575s)
+[2025.11.07-17.29.48:122][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.017607s)
+[2025.11.07-17.29.48:146][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.07-17.29.48:150][110]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.07-17.29.48:151][110]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.07-17.29.48:151][110]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.07-17.29.48:151][110]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.07-17.29.48:151][110]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.07-17.29.48:155][110]LogWorldPartition: Display: WorldPartition initialize took 3.262 ms (total: 2.39 sec)
+[2025.11.07-17.29.48:155][110]LogPlayLevel: PIE: World Init took: (0.005071s)
+[2025.11.07-17.29.48:156][110]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.11.07-17.29.48:156][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-17.29.48:156][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-17.29.48:156][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-17.29.48:156][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-17.29.48:156][110]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-17.29.48:156][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-17.29.48:156][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-17.29.48:156][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-17.29.48:156][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-17.29.48:156][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-17.29.48:156][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-17.29.48:158][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-17.29.48:184][110]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.07-17.29.48:184][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-17.29.48:184][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-17.29.48:184][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-17.29.48:185][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.11.07-17.29.48:185][110]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=26
+[2025.11.07-17.29.48:185][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.11.07-17.29.48:185][110]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4864
+[2025.11.07-17.29.48:185][110]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=26
+[2025.11.07-17.29.48:187][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.11.07-17.29.48:187][110]LogInit: FAudioDevice initialized with ID 26.
+[2025.11.07-17.29.48:187][110]LogAudio: Display: Audio Device (ID: 26) registered with world 'Lvl_ThirdPerson'.
+[2025.11.07-17.29.48:187][110]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.11.07-17.29.48:244][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.29.48:244][110]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.07-17.29.48:248][110]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319)
+[2025.11.07-17.29.48:250][110]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.07-18.29.48
+[2025.11.07-17.29.48:250][110]LogWorld: Bringing up level for play took: 0.006430
+[2025.11.07-17.29.48:253][110]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.11.07-17.29.48:266][110]PIE: Server logged in
+[2025.11.07-17.29.48:275][110]PIE: Play in editor total start time 0,171 seconds.
+[2025.11.07-17.29.51:513][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.29.51:513][264]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.29.51:513][264]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.07-17.29.51:514][264]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.07-17.29.51:521][264]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-17.29.51:523][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.29.51:523][264]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-17.29.51:524][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-17.29.51:529][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.29.51:554][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.07-17.29.51:554][264]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.11.07-17.29.51:554][264]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2025.11.07-17.29.51:556][264]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2025.11.07-17.29.51:556][264]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=26
+[2025.11.07-17.29.51:562][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.11.07-17.29.51:609][265]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.11.07-17.29.56:484][542]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.07-17.29.56:496][542]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.07-17.29.56:496][542]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.07-17.29.56:497][542]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 910 us (total: 26.426 ms)
+[2025.11.07-17.29.56:500][542]LogPlayLevel: [PlayLevel] Compiling BP_Companion1 before play...
+[2025.11.07-17.29.56:634][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.07-17.29.56:638][542]LogPlayLevel: PlayLevel: Blueprint regeneration took 140 ms (1 blueprints)
+[2025.11.07-17.29.56:638][542]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.29.56:652][542]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.07-17.29.56:655][542]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.113 ms (total: 81.485 ms)
+[2025.11.07-17.29.56:655][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016883s)
+[2025.11.07-17.29.56:655][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.016919s)
+[2025.11.07-17.29.56:679][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.11.07-17.29.56:680][542]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.07-17.29.56:682][542]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.07-17.29.56:682][542]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.07-17.29.56:682][542]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.07-17.29.56:682][542]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.07-17.29.56:686][542]LogWorldPartition: Display: WorldPartition initialize took 3.426 ms (total: 2.39 sec)
+[2025.11.07-17.29.56:686][542]LogPlayLevel: PIE: World Init took: (0.005356s)
+[2025.11.07-17.29.56:687][542]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.11.07-17.29.56:687][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-17.29.56:687][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-17.29.56:687][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-17.29.56:687][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-17.29.56:687][542]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-17.29.56:687][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-17.29.56:687][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-17.29.56:687][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-17.29.56:687][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-17.29.56:687][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-17.29.56:687][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-17.29.56:689][542]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-17.29.56:715][542]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.07-17.29.56:715][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-17.29.56:715][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-17.29.56:715][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-17.29.56:716][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.11.07-17.29.56:716][542]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=27
+[2025.11.07-17.29.56:716][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.11.07-17.29.56:716][542]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28880
+[2025.11.07-17.29.56:718][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.11.07-17.29.56:718][542]LogInit: FAudioDevice initialized with ID 27.
+[2025.11.07-17.29.56:718][542]LogAudio: Display: Audio Device (ID: 27) registered with world 'Lvl_ThirdPerson'.
+[2025.11.07-17.29.56:718][542]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.11.07-17.29.56:775][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.29.56:775][542]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.07-17.29.56:780][542]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319)
+[2025.11.07-17.29.56:781][542]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.07-18.29.56
+[2025.11.07-17.29.56:782][542]LogWorld: Bringing up level for play took: 0.006490
+[2025.11.07-17.29.56:785][542]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.11.07-17.29.56:796][542]PIE: Server logged in
+[2025.11.07-17.29.56:801][542]PIE: Play in editor total start time 0,305 seconds.
+[2025.11.07-17.30.06:551][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.30.06:551][  2]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.30.06:551][  2]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.07-17.30.06:552][  2]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.07-17.30.06:558][  2]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-17.30.06:560][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.30.06:560][  2]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-17.30.06:561][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-17.30.06:568][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.30.06:592][  2]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.11.07-17.30.06:593][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2025.11.07-17.30.06:594][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2025.11.07-17.30.06:594][  2]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=27
+[2025.11.07-17.30.06:601][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.11.07-17.30.06:653][  3]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.11.07-17.31.05:369][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.11.07-17.31.06:719][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-17.31.06:761][603]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_Companion1] ([2] browsable assets)...
+[2025.11.07-17.31.06:811][603]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_Companion1.BP_Companion1]
+[2025.11.07-17.31.06:811][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_Companion1]
+[2025.11.07-17.31.06:811][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Companion/BP_Companion1" FILE="D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset" SILENT=true
+[2025.11.07-17.31.06:848][603]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_Companion1
+[2025.11.07-17.31.06:848][603]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Companion1BA45BB7048E80AC895FA16A7F509B873.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset'
+[2025.11.07-17.31.06:861][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.057 ms (total: 10.3 sec)
+[2025.11.07-17.31.06:909][603]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-17.31.06:909][603]LogContentValidation: Enabled validators:
+[2025.11.07-17.31.06:909][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-17.31.06:909][603]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-17.31.06:909][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-17.31.06:909][603]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-17.31.06:909][603]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-17.31.06:909][603]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-17.31.06:909][603]AssetCheck: /Game/Assets/Companion/BP_Companion1 Validating asset
+[2025.11.07-17.33.01:516][ 56]LogEditorTransaction: Undo Create Pin Link
+[2025.11.07-17.33.21:415][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.07-17.33.22:353][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.11.07-17.33.41:554][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.07-17.33.41:559][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-17.33.41:620][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_Companion1] ([2] browsable assets)...
+[2025.11.07-17.33.41:665][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_Companion1.BP_Companion1]
+[2025.11.07-17.33.41:665][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_Companion1]
+[2025.11.07-17.33.41:665][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Companion/BP_Companion1" FILE="D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset" SILENT=true
+[2025.11.07-17.33.41:701][637]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_Companion1
+[2025.11.07-17.33.41:701][637]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Companion15456FB7442A268523A6DD4A5BBC9A684.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset'
+[2025.11.07-17.33.41:703][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Interactuables/Platforms/BP_Platform_Ocultas] ([2] browsable assets)...
+[2025.11.07-17.33.41:703][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Interactuables/Platforms/BP_Platform_Ocultas]
+[2025.11.07-17.33.41:720][637]LogSavePackage: Moving output files for package: /Game/Assets/Interactuables/Platforms/BP_Platform_Ocultas
+[2025.11.07-17.33.41:720][637]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Platform_Ocultas55956C724D10FE583301DABF2968384B.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Interactuables/Platforms/BP_Platform_Ocultas.uasset'
+[2025.11.07-17.33.41:721][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_RevealArea] ([2] browsable assets)...
+[2025.11.07-17.33.41:733][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_RevealArea.BP_RevealArea]
+[2025.11.07-17.33.41:733][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_RevealArea]
+[2025.11.07-17.33.41:733][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Companion/BP_RevealArea" FILE="D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_RevealArea.uasset" SILENT=true
+[2025.11.07-17.33.41:749][637]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_RevealArea
+[2025.11.07-17.33.41:750][637]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_RevealArea24BF85304D8598B1246A4EA8F502744F.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_RevealArea.uasset'
+[2025.11.07-17.33.41:763][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 203.889 ms (total: 10.5 sec)
+[2025.11.07-17.33.41:818][637]LogContentValidation: Display: Starting to validate 3 assets
+[2025.11.07-17.33.41:818][637]LogContentValidation: Enabled validators:
+[2025.11.07-17.33.41:818][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-17.33.41:818][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-17.33.41:818][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-17.33.41:818][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-17.33.41:818][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-17.33.41:818][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-17.33.41:818][637]AssetCheck: /Game/Assets/Companion/BP_Companion1 Validating asset
+[2025.11.07-17.33.41:818][637]AssetCheck: /Game/Assets/Interactuables/Platforms/BP_Platform_Ocultas Validating asset
+[2025.11.07-17.33.41:818][637]AssetCheck: /Game/Assets/Companion/BP_RevealArea Validating asset
+[2025.11.07-17.33.42:938][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.11.07-17.33.49:027][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10722.199219
+[2025.11.07-17.33.49:213][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-17.33.49:213][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10722.369141, Update Interval: 327.411713
+[2025.11.07-17.33.50:469][108]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.07-17.33.50:483][108]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.07-17.33.50:483][108]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.07-17.33.50:483][108]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 965 us (total: 27.392 ms)
+[2025.11.07-17.33.50:484][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-17.33.50:484][108]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.33.50:498][108]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.07-17.33.50:501][108]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.063 ms (total: 84.548 ms)
+[2025.11.07-17.33.50:501][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017537s)
+[2025.11.07-17.33.50:501][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.017569s)
+[2025.11.07-17.33.50:527][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.07-17.33.50:530][108]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.07-17.33.50:532][108]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.07-17.33.50:532][108]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.07-17.33.50:532][108]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.07-17.33.50:532][108]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.07-17.33.50:536][108]LogWorldPartition: Display: WorldPartition initialize took 3.208 ms (total: 2.39 sec)
+[2025.11.07-17.33.50:536][108]LogPlayLevel: PIE: World Init took: (0.005116s)
+[2025.11.07-17.33.50:536][108]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.11.07-17.33.50:536][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-17.33.50:536][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-17.33.50:537][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-17.33.50:537][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-17.33.50:537][108]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-17.33.50:537][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-17.33.50:537][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-17.33.50:537][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-17.33.50:537][108]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-17.33.50:537][108]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-17.33.50:537][108]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-17.33.50:539][108]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-17.33.50:565][108]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.07-17.33.50:567][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-17.33.50:567][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-17.33.50:567][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-17.33.50:567][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.11.07-17.33.50:567][108]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=28
+[2025.11.07-17.33.50:567][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.11.07-17.33.50:567][108]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8348
+[2025.11.07-17.33.50:567][108]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=28
+[2025.11.07-17.33.50:569][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.11.07-17.33.50:569][108]LogInit: FAudioDevice initialized with ID 28.
+[2025.11.07-17.33.50:569][108]LogAudio: Display: Audio Device (ID: 28) registered with world 'Lvl_ThirdPerson'.
+[2025.11.07-17.33.50:569][108]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.11.07-17.33.50:599][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.33.50:599][108]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.07-17.33.50:603][108]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319)
+[2025.11.07-17.33.50:605][108]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.07-18.33.50
+[2025.11.07-17.33.50:605][108]LogWorld: Bringing up level for play took: 0.006529
+[2025.11.07-17.33.50:608][108]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.11.07-17.33.50:620][108]PIE: Server logged in
+[2025.11.07-17.33.50:627][108]PIE: Play in editor total start time 0,144 seconds.
+[2025.11.07-17.34.02:002][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.34.02:002][645]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.34.02:002][645]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.07-17.34.02:003][645]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.07-17.34.02:009][645]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-17.34.02:010][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.34.02:010][645]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-17.34.02:011][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-17.34.02:018][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.34.02:047][645]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.07-17.34.02:047][645]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.11.07-17.34.02:047][645]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2025.11.07-17.34.02:049][645]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2025.11.07-17.34.02:049][645]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=28
+[2025.11.07-17.34.02:054][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.11.07-17.34.02:101][646]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.11.07-17.34.16:050][597]LogEditorTransaction: Undo Move Node
+[2025.11.07-17.34.16:297][600]LogEditorTransaction: Undo Move Node
+[2025.11.07-17.34.16:531][603]LogEditorTransaction: Undo Break Pin Link
+[2025.11.07-17.34.17:565][666]LogEditorTransaction: Undo Edit Cargas
+[2025.11.07-17.34.17:584][666]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319.CharacterMesh0) Component already registered.
+[2025.11.07-17.34.17:588][666]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.BP_Companion1_C_0.CharacterMesh0) Component already registered.
+[2025.11.07-17.34.17:940][687]LogEditorTransaction: Undo Edit Cargas
+[2025.11.07-17.34.17:957][687]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319.CharacterMesh0) Component already registered.
+[2025.11.07-17.34.17:962][687]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.BP_Companion1_C_0.CharacterMesh0) Component already registered.
+[2025.11.07-17.34.28:982][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.11.07-17.34.28:989][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-17.34.29:051][471]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_Companion1] ([2] browsable assets)...
+[2025.11.07-17.34.29:093][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_Companion1.BP_Companion1]
+[2025.11.07-17.34.29:093][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_Companion1]
+[2025.11.07-17.34.29:093][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Companion/BP_Companion1" FILE="D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset" SILENT=true
+[2025.11.07-17.34.29:131][471]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_Companion1
+[2025.11.07-17.34.29:131][471]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_Companion1DD3C63EB4B16E3921E77A8894474AA53.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset'
+[2025.11.07-17.34.29:132][471]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_RevealArea] ([2] browsable assets)...
+[2025.11.07-17.34.29:143][471]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_RevealArea.BP_RevealArea]
+[2025.11.07-17.34.29:144][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_RevealArea]
+[2025.11.07-17.34.29:144][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Companion/BP_RevealArea" FILE="D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_RevealArea.uasset" SILENT=true
+[2025.11.07-17.34.29:159][471]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_RevealArea
+[2025.11.07-17.34.29:160][471]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_RevealAreaAD0FE4D34CE2E37C95923DBBC6116CDC.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_RevealArea.uasset'
+[2025.11.07-17.34.29:173][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.778 ms (total: 10.7 sec)
+[2025.11.07-17.34.29:233][471]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.07-17.34.29:233][471]LogContentValidation: Enabled validators:
+[2025.11.07-17.34.29:233][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-17.34.29:233][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-17.34.29:233][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-17.34.29:233][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-17.34.29:233][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-17.34.29:233][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-17.34.29:233][471]AssetCheck: /Game/Assets/Companion/BP_Companion1 Validating asset
+[2025.11.07-17.34.29:233][471]AssetCheck: /Game/Assets/Companion/BP_RevealArea Validating asset
+[2025.11.07-17.34.29:870][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.07-17.34.30:408][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.11.07-17.36.26:874][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-17.36.26:911][373]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.07-17.36.26:956][373]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.07-17.36.26:956][373]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.07-17.36.26:999][373]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.07-17.36.26:999][373]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacter3C454F1340BFDF0631FE3A9665658550.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.07-17.36.27:013][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.514 ms (total: 10.9 sec)
+[2025.11.07-17.36.27:078][373]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-17.36.27:078][373]LogContentValidation: Enabled validators:
+[2025.11.07-17.36.27:078][373]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-17.36.27:078][373]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-17.36.27:078][373]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-17.36.27:078][373]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-17.36.27:078][373]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-17.36.27:078][373]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-17.36.27:078][373]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.07-17.36.28:085][424]LogBlueprint: Error: [AssetLog] D:\Blau\Proyecto_Final\Unreal\FarewellMsFlowerThief\F_MsFlowerThief\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a BP_Companion1_C, therefore ' Target ' must have a connection.
+[2025.11.07-17.36.28:088][424]LogBlueprint: Error: [AssetLog] D:\Blau\Proyecto_Final\Unreal\FarewellMsFlowerThief\F_MsFlowerThief\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Variable node  Set Cargas  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.11.07-17.36.28:165][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.11.07-17.36.40:877][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.11.07-17.36.41:724][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-17.36.41:760][ 65]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.07-17.36.41:800][ 65]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.11.07-17.36.41:800][ 65]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.07-17.36.41:844][ 65]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.07-17.36.41:844][ 65]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacterCFA360944A3DBF78BCF01F91C4EBDF6B.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.07-17.36.41:859][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.244 ms (total: 11.0 sec)
+[2025.11.07-17.36.41:910][ 65]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.07-17.36.41:910][ 65]LogContentValidation: Enabled validators:
+[2025.11.07-17.36.41:910][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-17.36.41:910][ 65]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-17.36.41:910][ 65]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-17.36.41:910][ 65]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-17.36.41:910][ 65]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-17.36.41:910][ 65]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-17.36.41:910][ 65]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.07-17.36.44:954][211]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2025.11.07-17.36.49:964][466]LogDerivedDataCache: C:/Users/AlumnoT/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.07-17.36.51:704][642]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.07-17.36.51:716][642]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.07-17.36.51:717][642]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.07-17.36.51:718][642]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.230 ms (total: 28.622 ms)
+[2025.11.07-17.36.51:718][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-17.36.51:718][642]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.36.51:733][642]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.07-17.36.51:736][642]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.279 ms (total: 87.828 ms)
+[2025.11.07-17.36.51:736][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017673s)
+[2025.11.07-17.36.51:736][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.017708s)
+[2025.11.07-17.36.51:761][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.11.07-17.36.51:765][642]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.07-17.36.51:767][642]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.07-17.36.51:767][642]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.07-17.36.51:767][642]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.07-17.36.51:767][642]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.07-17.36.51:770][642]LogWorldPartition: Display: WorldPartition initialize took 3.410 ms (total: 2.40 sec)
+[2025.11.07-17.36.51:770][642]LogPlayLevel: PIE: World Init took: (0.005451s)
+[2025.11.07-17.36.51:770][642]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.11.07-17.36.51:770][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-17.36.51:770][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-17.36.51:770][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-17.36.51:770][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-17.36.51:770][642]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-17.36.51:770][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-17.36.51:770][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-17.36.51:772][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-17.36.51:772][642]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-17.36.51:772][642]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-17.36.51:772][642]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-17.36.51:773][642]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-17.36.51:801][642]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.07-17.36.51:801][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-17.36.51:801][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-17.36.51:801][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-17.36.51:802][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.11.07-17.36.51:802][642]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=29
+[2025.11.07-17.36.51:802][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.11.07-17.36.51:802][642]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32032
+[2025.11.07-17.36.51:802][642]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=29
+[2025.11.07-17.36.51:804][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.11.07-17.36.51:804][642]LogInit: FAudioDevice initialized with ID 29.
+[2025.11.07-17.36.51:804][642]LogAudio: Display: Audio Device (ID: 29) registered with world 'Lvl_ThirdPerson'.
+[2025.11.07-17.36.51:804][642]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.11.07-17.36.51:843][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.36.51:844][642]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.07-17.36.51:848][642]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319)
+[2025.11.07-17.36.51:849][642]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.07-18.36.51
+[2025.11.07-17.36.51:850][642]LogWorld: Bringing up level for play took: 0.006306
+[2025.11.07-17.36.51:852][642]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.11.07-17.36.51:867][642]PIE: Server logged in
+[2025.11.07-17.36.51:875][642]PIE: Play in editor total start time 0,158 seconds.
+[2025.11.07-17.37.14:202][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.37.14:202][406]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.37.14:202][406]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.07-17.37.14:203][406]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.07-17.37.14:209][406]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-17.37.14:212][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.37.14:212][406]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-17.37.14:213][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-17.37.14:219][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.37.14:244][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.07-17.37.14:244][406]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.11.07-17.37.14:244][406]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2025.11.07-17.37.14:247][406]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2025.11.07-17.37.14:247][406]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=29
+[2025.11.07-17.37.14:252][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.11.07-17.37.14:291][407]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.11.07-17.37.17:853][663]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.11.07-17.37.17:866][663]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.11.07-17.37.17:866][663]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.11.07-17.37.17:867][663]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 966 us (total: 29.589 ms)
+[2025.11.07-17.37.17:867][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.07-17.37.17:867][663]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.37.17:883][663]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.11.07-17.37.17:886][663]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.318 ms (total: 91.146 ms)
+[2025.11.07-17.37.17:886][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018850s)
+[2025.11.07-17.37.17:886][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.018883s)
+[2025.11.07-17.37.17:910][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.07-17.37.17:912][663]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.11.07-17.37.17:914][663]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.11.07-17.37.17:914][663]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.11.07-17.37.17:914][663]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.11.07-17.37.17:914][663]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.11.07-17.37.17:917][663]LogWorldPartition: Display: WorldPartition initialize took 3.269 ms (total: 2.40 sec)
+[2025.11.07-17.37.17:917][663]LogPlayLevel: PIE: World Init took: (0.005129s)
+[2025.11.07-17.37.17:918][663]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.11.07-17.37.17:918][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.07-17.37.17:918][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.07-17.37.17:918][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.07-17.37.17:918][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.07-17.37.17:918][663]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.07-17.37.17:918][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.07-17.37.17:918][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.07-17.37.17:918][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.07-17.37.17:918][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.07-17.37.17:918][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.07-17.37.17:918][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.07-17.37.17:920][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.07-17.37.17:946][663]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.11.07-17.37.17:946][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.07-17.37.17:946][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.07-17.37.17:946][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.07-17.37.17:946][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.11.07-17.37.17:946][663]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=30
+[2025.11.07-17.37.17:946][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.11.07-17.37.17:946][663]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16692
+[2025.11.07-17.37.17:946][663]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=30
+[2025.11.07-17.37.17:948][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.11.07-17.37.17:948][663]LogInit: FAudioDevice initialized with ID 30.
+[2025.11.07-17.37.17:948][663]LogAudio: Display: Audio Device (ID: 30) registered with world 'Lvl_ThirdPerson'.
+[2025.11.07-17.37.17:948][663]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.11.07-17.37.18:007][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.37.18:008][663]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.11.07-17.37.18:012][663]LogSkinnedMeshComp: Warning: GetSocketByName(None): No SkeletalMesh for Component(CharacterMesh0) Actor(BP_Companion1_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319)
+[2025.11.07-17.37.18:014][663]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.11.07-18.37.18
+[2025.11.07-17.37.18:014][663]LogWorld: Bringing up level for play took: 0.006349
+[2025.11.07-17.37.18:017][663]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.11.07-17.37.18:032][663]PIE: Server logged in
+[2025.11.07-17.37.18:040][663]PIE: Play in editor total start time 0,175 seconds.
+[2025.11.07-17.37.25:251][229]LogBlueprintUserMessages: [BP_Companion1_C_UAID_00D8615CF3E8B69D02_1246802319] PLAYER 1
+[2025.11.07-17.37.33:359][874]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0B3F
+[2025.11.07-17.37.33:359][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.33:359][874]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CB2
+[2025.11.07-17.37.33:359][874]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.33:359][874]LogScript: Warning: Attempted to assign to None
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CC7
+[2025.11.07-17.37.33:359][874]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.34:566][970]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0B3F
+[2025.11.07-17.37.34:566][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.34:566][970]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CB2
+[2025.11.07-17.37.34:566][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.34:566][970]LogScript: Warning: Attempted to assign to None
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CC7
+[2025.11.07-17.37.34:566][970]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.34:812][990]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0B3F
+[2025.11.07-17.37.34:812][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.34:812][990]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CB2
+[2025.11.07-17.37.34:812][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.34:812][990]LogScript: Warning: Attempted to assign to None
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CC7
+[2025.11.07-17.37.34:812][990]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:146][ 17]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0B3F
+[2025.11.07-17.37.35:146][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:147][ 17]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CB2
+[2025.11.07-17.37.35:147][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:147][ 17]LogScript: Warning: Attempted to assign to None
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CC7
+[2025.11.07-17.37.35:147][ 17]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:335][ 32]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0B3F
+[2025.11.07-17.37.35:335][ 32]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:335][ 32]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CB2
+[2025.11.07-17.37.35:335][ 32]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:335][ 32]LogScript: Warning: Attempted to assign to None
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0CC7
+[2025.11.07-17.37.35:335][ 32]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:526][ 47]LogScript: Warning: Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C
+	BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter:0B3F
+[2025.11.07-17.37.35:527][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:527][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:527][ 47]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:707][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:707][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:707][ 61]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:893][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:893][ 76]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.35:893][ 76]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:084][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:084][ 91]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:085][ 91]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:262][105]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:263][105]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:263][105]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:455][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:455][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:455][120]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:629][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:629][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:629][134]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:792][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:792][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:792][147]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:970][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:970][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.36:970][161]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:156][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:156][176]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:156][176]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:341][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:341][191]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:341][191]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:527][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:527][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:528][206]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:734][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:734][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property BP_Companion 1 in BP_ThirdPersonCharacter_C". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.37:734][223]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Node:  Set Cargas Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2025.11.07-17.37.38:043][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.07-17.37.38:043][245]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.11.07-17.37.38:043][245]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.07-17.37.38:044][245]LogSlate: Window 'F_MsFlowerThief Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.11.07-17.37.38:051][245]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-17.37.38:052][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.37.38:052][245]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-17.37.38:053][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.07-17.37.38:059][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-17.37.38:088][245]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.11.07-17.37.38:088][245]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2025.11.07-17.37.38:090][245]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2025.11.07-17.37.38:090][245]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=30
+[2025.11.07-17.37.38:096][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.11.07-17.37.38:263][246]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.11.07-17.37.42:498][587]LogSlate: Window 'Message Log' being destroyed
+[2025.11.07-17.37.42:510][587]LogSlate: Window 'Message Log' being destroyed
+[2025.11.07-17.38.23:317][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.07-17.38.23:320][490]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.030
+[2025.11.07-17.38.23:321][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.07-17.38.23:321][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.07-17.38.23:383][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2025.11.07-17.38.23:383][490]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacter_Auto3C6F7A34543828C8829A5EDB4DB1C777F.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2025.11.07-17.38.23:384][490]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Companion/BP_RevealArea] ([2] browsable assets)...
+[2025.11.07-17.38.23:441][490]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Companion/BP_RevealArea.BP_RevealArea]
+[2025.11.07-17.38.23:441][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_RevealArea]
+[2025.11.07-17.38.23:457][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Companion/BP_RevealArea_Auto3
+[2025.11.07-17.38.23:457][490]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_RevealArea_Auto38A42FAC44AF631841CD3FEAC2156ACCD.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/Autosaves/Game/Assets/Companion/BP_RevealArea_Auto3.uasset'
+[2025.11.07-17.38.23:457][490]LogFileHelpers: Auto-saving content packages took 0.137
+[2025.11.07-17.39.53:595][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11086.554688
+[2025.11.07-17.39.53:763][281]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-17.39.53:764][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11086.708008, Update Interval: 347.215179
+[2025.11.07-17.46.33:071][982]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11485.418945
+[2025.11.07-17.46.33:226][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-17.46.33:226][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11485.556641, Update Interval: 336.559937
+[2025.11.07-17.52.54:975][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11866.801758
+[2025.11.07-17.52.55:144][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-17.52.55:144][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11866.955078, Update Interval: 338.356262
+[2025.11.07-17.59.15:269][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12246.660156
+[2025.11.07-17.59.15:438][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-17.59.15:438][107]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12246.810547, Update Interval: 327.473999
+[2025.11.07-18.05.42:862][134]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12633.851562
+[2025.11.07-18.05.43:031][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-18.05.43:031][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12634.002930, Update Interval: 349.077423
+[2025.11.07-18.12.15:975][523]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13026.677734
+[2025.11.07-18.12.16:118][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.07-18.12.16:118][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13026.803711, Update Interval: 326.838593
+[2025.11.07-18.16.18:075][137]LogSlate: Window 'M_Ocultas' being destroyed
+[2025.11.07-18.16.18:082][137]LogSlate: Window 'M_Ocultas' being destroyed
+[2025.11.07-18.16.18:092][137]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.18:092][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.18:419][137]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.07-18.16.18:420][137]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.18:420][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.18:499][137]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.07-18.16.18:499][137]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.18:499][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.18:564][137]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.07-18.16.18:564][137]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.18:564][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.18:705][137]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.18:705][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.18:738][137]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.18:738][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.18:826][137]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.18:826][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.18:881][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.07-18.16.20:416][137]LogSlate: Window 'Save Content' being destroyed
+[2025.11.07-18.16.20:433][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.07-18.16.20:487][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Companion/BP_RevealArea] ([2] browsable assets)...
+[2025.11.07-18.16.20:487][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Companion/BP_RevealArea]
+[2025.11.07-18.16.20:487][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Companion/BP_RevealArea" FILE="D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_RevealArea.uasset" SILENT=true
+[2025.11.07-18.16.20:503][137]LogSavePackage: Moving output files for package: /Game/Assets/Companion/BP_RevealArea
+[2025.11.07-18.16.20:503][137]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_RevealAreaEC60BC5A4C45E20344932490119ACC6C.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_RevealArea.uasset'
+[2025.11.07-18.16.20:504][137]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.11.07-18.16.20:504][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.11.07-18.16.20:547][137]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.11.07-18.16.20:547][137]LogSavePackage: Moving 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Saved/BP_ThirdPersonCharacterA460097342EE2503BE7212B3A375F4D7.tmp' to 'D:/Blau/Proyecto_Final/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.11.07-18.16.20:557][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.742 ms (total: 11.1 sec)
+[2025.11.07-18.16.20:694][137]LogStall: Shutdown...
+[2025.11.07-18.16.20:694][137]LogStall: Shutdown complete.
+[2025.11.07-18.16.20:789][137]LogSlate: Window 'F_MsFlowerThief - Unreal Editor' being destroyed
+[2025.11.07-18.16.20:791][137]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.11.07-18.16.20:928][137]LogContentValidation: Display: Starting to validate 2 assets
+[2025.11.07-18.16.20:928][137]LogContentValidation: Enabled validators:
+[2025.11.07-18.16.20:928][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.07-18.16.20:928][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.07-18.16.20:928][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.07-18.16.20:928][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.07-18.16.20:928][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.07-18.16.20:928][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.07-18.16.20:929][137]AssetCheck: /Game/Assets/Companion/BP_RevealArea Validating asset
+[2025.11.07-18.16.20:929][137]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.11.07-18.16.20:973][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.07-18.16.20:993][138]Cmd: QUIT_EDITOR
+[2025.11.07-18.16.20:993][138]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.07-18.16.21:003][138]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.07-18.16.21:004][138]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.07-18.16.21:004][138]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.07-18.16.21:006][138]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:006][138]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.11.07-18.16.21:006][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:006][138]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.11.07-18.16.21:034][138]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.07-18.16.21:034][138]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.07-18.16.21:034][138]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.07-18.16.21:042][138]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:042][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:046][138]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:046][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:049][138]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:049][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:052][138]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:052][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:055][138]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:055][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:059][138]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:059][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:063][138]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:063][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:066][138]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:066][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:069][138]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:069][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:073][138]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:073][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:077][138]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:077][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:080][138]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:080][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:083][138]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:083][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:086][138]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:087][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:090][138]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:090][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:093][138]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:093][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:096][138]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.11.07-18.16.21:096][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.07-18.16.21:099][138]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.07-18.16.21:100][138]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.07-18.16.21:101][138]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.07-18.16.21:754][138]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.07-18.16.21:754][138]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.07-18.16.21:754][138]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2025.11.07-18.16.21:754][138]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.07-18.16.21:754][138]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.07-18.16.21:756][138]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.07-18.16.21:756][138]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.07-18.16.21:759][138]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.07-18.16.21:759][138]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.07-18.16.21:763][138]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.07-18.16.21:769][138]LogExit: Preparing to exit.
+[2025.11.07-18.16.21:824][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.21:830][138]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.07-18.16.22:342][138]LogEditorDataStorage: Deinitializing
+[2025.11.07-18.16.22:487][138]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.07-18.16.22:502][138]LogExit: Editor shut down
+[2025.11.07-18.16.22:504][138]LogExit: Transaction tracking system shut down
+[2025.11.07-18.16.22:659][138]LogExit: Object subsystem successfully closed.
+[2025.11.07-18.16.22:776][138]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.07-18.16.22:865][138]LogMemoryProfiler: Shutdown
+[2025.11.07-18.16.22:865][138]LogNetworkingProfiler: Shutdown
+[2025.11.07-18.16.22:865][138]LoadingProfiler: Shutdown
+[2025.11.07-18.16.22:865][138]LogTimingProfiler: Shutdown
+[2025.11.07-18.16.22:865][138]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.07-18.16.22:865][138]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.07-18.16.23:186][138]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.07-18.16.23:191][138]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.07-18.16.23:220][138]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.07-18.16.23:220][138]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B103B5B7C-4FCD-DBFA-8DB2-AD89EFE699E7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=57d508ea4421faf65dd6a39fd01a7599%7Cac10bb8943c44d8e9f0dac7396755b35%7C36f8a9dd-5b5e-47d6-a8b7-d06cf1085d12&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.07-18.16.23:764][138]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.07-18.16.23:764][138]RenderDocPlugin: plugin has been unloaded.
+[2025.11.07-18.16.23:765][138]LogXGEController: Cleaning working directory: C:/Users/AlumnoT/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.11.07-18.16.23:767][138]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.07-18.16.23:767][138]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.07-18.16.23:767][138]LogPakFile: Destroying PakPlatformFile
+[2025.11.07-18.16.24:089][138]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.07-18.16.24:109][138]LogExit: Exiting.
+[2025.11.07-18.16.24:138][138]Log file closed, 11/07/25 19:16:24
