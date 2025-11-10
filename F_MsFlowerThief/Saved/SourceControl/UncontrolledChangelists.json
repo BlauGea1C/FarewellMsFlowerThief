@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rod13/Documents/GitHub/FarewellMsFlowerThief/F_MsFlowerThief/Content/VFX/Meshes/M_GlowingParticle_01.uasset",
+				"C:/Users/rod13/Documents/GitHub/FarewellMsFlowerThief/F_MsFlowerThief/Content/VFX/Systems/NS_GlowingParticles.uasset",
+				"C:/Users/rod13/Documents/GitHub/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/ME/L3TCRO28EWGCQ6YMH9AP19.uasset",
+				"C:/Users/rod13/Documents/GitHub/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
+				"C:/Users/rod13/Documents/GitHub/FarewellMsFlowerThief/F_MsFlowerThief/Content/VFX/Systems/NS_Fireflies.uasset",
+				"C:/Users/rod13/Documents/GitHub/FarewellMsFlowerThief/F_MsFlowerThief/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/OO/VXVVOSZJD5E5VLEX06SKML.uasset",
 				"D:/Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/Assets/Companion/BP_Companion1.uasset",
 				"D:/Proyecto_Narcisu/Unreal/FarewellMsFlowerThief/F_MsFlowerThief/Content/ThirdPerson/Lvl_ThirdPerson.umap",
