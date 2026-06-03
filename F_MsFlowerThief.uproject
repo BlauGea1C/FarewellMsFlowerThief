@@ -26,10 +26,6 @@
 				"Win64",
 				"Android"
 			]
-		},
-		{
-			"Name": "MultiUserClient",
-			"Enabled": true
 		}
 	],
 	"AdditionalPluginDirectories": [
